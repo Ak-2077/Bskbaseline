@@ -1,0 +1,689 @@
+Grade ,Div,Student's ID,Name,Articulation ,Structured Thinking ,Body Language ,Audience Engagement ,Ability to speak - Total (Out of 20) ,Ability to Engage- Total (Out of 20) 
+3,Tulip,1,Monisha Randhi,70,60,70,60,65,65
+3,Tulip,2,Jashwitha P,60,70,80,60,65,70
+3,Tulip,3,Inaya negi,60,60,60,50,60,55
+3,Tulip,4,Loukya reddy,70,80,60,50,75,55
+3,Tulip,5,Lekhya sree,50,60,65,50,55,58
+3,Tulip,6,Sai mangesh,60,50,55,60,55,58
+3,Tulip,7,Adarsh Mohan,90,70,70,60,80,65
+3,Tulip,8,Aadhya arroju,30,20,20,20,25,20
+3,Tulip,9,C. Aashritha,80,75,55,60,78,58
+3,Tulip,10,Matmari Vihaana,60,75,75,70,68,73
+3,Tulip,11,Tripuri Devi,30,30,25,25,30,25
+3,Tulip,12,Nehansh Reddy,60,65,60,75,63,68
+3,Tulip,13,Rithvik Karri,60,55,45,45,58,45
+3,Tulip,14,Paardhiv sai,60,70,75,60,65,68
+3,Tulip,15,Aafia maheen,60,40,50,50,50,50
+3,Tulip,16,Bhavya B,40,60,50,40,50,45
+3,Tulip,17,J. Aarav,70,65,65,60,68,63
+3,Tulip,18,Lakshay Asrith,60,70,50,50,65,50
+3,Tulip,19,Venkata teertha,50,40,50,40,45,45
+3,Tulip,20,Gulam yaqub,50,40,40,50,45,45
+3,Tulip,21,Nandan M,30,30,30,30,30,30
+3,Tulip,22,Sai Viraj,50,60,50,50,55,50
+3,Tulip,23,Shashish. T,80,80,65,55,80,60
+3,Tulip,24,Manvil,70,70,70,60,70,65
+3,Tulip,25,Yakshith G,65,60,65,70,63,68
+3,Tulip,26,Shourya,60,70,60,80,65,70
+3,Tulip,27,Maithilli G,50,60,70,85,55,78
+3,Tulip,28,Mandhan,70,60,65,80,65,73
+3,Tulip,29,Eeshan,60,50,75,60,55,68
+3,Tulip,30,Jishan,60,80,60,60,70,60
+3,Tulip,31,Devaansh,30,30,40,35,30,38
+3,Tulip,32,Revansh,60,70,70,50,65,60
+3,Aster,1,Pranvika surya,60,65,55,60,63,58
+3,Aster,2,Priscilla evelyn,80,70,75,60,75,68
+3,Aster,3,Aasrith kumar,70,70,65,70,70,68
+3,Aster,4,Shivika Mishra,50,70,55,55,60,55
+3,Aster,5,Nishad vijay,50,40,55,70,45,63
+3,Aster,6,B Trishan,60,70,70,80,65,75
+3,Aster,7,Devarsh V,70,50,25,80,60,53
+3,Aster,8,Shivaksh choudhary,60,55,30,40,58,35
+3,Aster,9,Samarth S,65,65,65,65,65,65
+3,Aster,10,Vishwak sai,35,40,35,45,38,40
+3,Aster,11,Mishika A,60,60,70,70,60,70
+3,Aster,12,Yasri,45,50,35,50,48,43
+3,Aster,13,Revansh E,40,40,40,30,40,35
+3,Aster,14,K Pranvi,60,65,65,60,63,63
+3,Aster,15,Vallijakshi S,70,80,80,70,75,75
+3,Aster,16,Aadhya pyla,70,70,65,70,70,68
+3,Aster,17,Aakshit,70,60,50,50,65,50
+3,Aster,18,Ahaan,50,50,50,40,50,45
+3,Aster,19,Sahith N,70,70,60,75,70,68
+3,Aster,20,B Harish,70,70,60,65,70,63
+3,Aster,21,Shiva,80,60,70,70,70,70
+3,Aster,22,Arhaan,90,80,75,75,85,75
+3,Aster,23,Revarsh,80,60,60,75,70,68
+3,Aster,24,Harshil,80,70,80,70,75,75
+3,Aster,25,Bhavyan,80,80,50,60,80,55
+3,Aster,26,Kruthi,65,40,55,80,53,68
+3,Aster,27,Esha arshi,75,60,65,80,68,73
+3,Aster,28,Naveen,70,80,70,70,75,70
+3,Aster,29,Vehant,75,90,75,70,83,73
+3,Aster,30,Advait,60,70,50,50,65,50
+3,Aster,31,Jaawitha,80,80,70,60,80,65
+3,Aster,32,Veda,70,70,65,60,70,63
+3,Orchid,1,Sai keerthana,30,30,30,30,30,30
+3,Orchid,2,Rishik Varma,50,50,50,50,50,50
+3,Orchid,3,Yashwanth reddy,60,60,50,60,60,55
+3,Orchid,4,Samanvi prajay,60,70,60,70,65,65
+3,Orchid,5,Sri Aadhya,70,60,70,70,65,70
+3,Orchid,6,Veekshitha reddy,50,60,60,50,55,55
+3,Orchid,7,Veda Vedya,50,50,50,50,50,50
+3,Orchid,8,Tanvi juvva,60,40,30,30,50,30
+3,Orchid,9,Hemaanshu Kakani,40,60,60,50,50,55
+3,Orchid,10,Geethika reddy,70,70,50,70,70,60
+3,Orchid,11,Mokshit varma,60,70,60,60,65,60
+3,Orchid,12,Chinmayi,60,50,50,50,55,50
+3,Orchid,13,Aaryan Burra,60,60,50,60,60,55
+3,Orchid,14,Juhith polavarapu,70,60,60,60,65,60
+3,Orchid,15,Sri chakradhar,30,50,50,20,40,35
+3,Orchid,16,Hasni varma,60,70,40,80,65,60
+3,Orchid,17,Vihaan rao,40,50,20,30,45,25
+3,Orchid,18,Dhakshitha reddy,50,50,60,40,50,50
+3,Orchid,19,Likith K,60,60,45,70,60,58
+3,Orchid,20,Rihaan M,70,70,70,50,70,60
+3,Orchid,21,Aayaan,60,70,70,60,65,65
+3,Orchid,22,D Revanth,60,60,60,60,60,60
+3,Orchid,23,Rama,50,60,60,60,55,60
+3,Orchid,24,T Dhaarmik,50,50,60,50,50,55
+3,Orchid,25,Tejansh,70,80,60,60,75,60
+3,Orchid,26,Hanvesh,60,30,20,20,45,20
+3,Orchid,27,Sri Ishanth,50,50,50,40,50,45
+3,Pansy,1,Siddharth danvi,60,70,60,60,65,60
+3,Pansy,2,T Aarush,65,65,65,50,65,58
+3,Pansy,3,Sravya Gogireddy,65,55,65,40,60,53
+3,Pansy,4,Mohana Pragna,45,50,55,65,48,60
+3,Pansy,5,Dhanush reddy,65,55,55,55,60,55
+3,Pansy,6,Sahas prince,55,55,55,45,55,50
+3,Pansy,7,Ananya sai,50,80,65,50,65,58
+3,Pansy,8,Yatin reddy,40,50,65,65,45,65
+3,Pansy,9,Yogendra G,65,60,65,65,63,65
+3,Pansy,10,Krithikesh,65,65,65,65,65,65
+3,Pansy,11,Vedansh sai,60,55,55,55,58,55
+3,Pansy,12,lakshitha,55,55,55,65,55,60
+3,Pansy,13,Aaradhya T,55,65,65,55,60,60
+3,Pansy,14,manogna,30,30,30,20,30,25
+3,Pansy,15,Dushyanth p,70,70,55,60,70,58
+3,Pansy,16,Seekshitha varma,50,50,60,50,50,55
+3,Pansy,17,Krithik raj,60,50,40,70,55,55
+3,Pansy,18,Jayansh,60,60,55,70,60,63
+3,Pansy,19,Rishi K,50,60,60,50,55,55
+3,Pansy,20,Aadhya K,60,60,60,50,60,55
+3,Pansy,21,Koushik teja,60,70,60,60,65,60
+3,Pansy,22,Chaitrika Lakshmi,55,70,60,60,63,60
+3,Pansy,23,Tanisha Y,70,70,60,60,70,60
+3,Pansy,24,Bhavadeep N,60,60,60,50,60,55
+3,Pansy,25,Jahnasree sai,60,60,50,50,60,50
+3,Pansy,26,Prahara sree,60,50,60,55,55,58
+3,Pansy,27,Rithwik K,60,50,75,80,55,78
+3,Pansy,28,J Rushika sai,60,50,60,70,55,65
+3,Pansy,29,Sri laxmi Ramani,70,70,70,70,70,70
+3,Pansy,30,Sahasra sadhu,60,70,55,60,65,58
+3,Pansy,31,Priyansh krishna,70,80,70,60,75,65
+3,Lavender,1,A Veekshit Reddy,60,65,55,65,63,60
+3,Lavender,2,Johaan dutt,70,60,55,60,65,58
+3,Lavender,3,Ananya Reddy,70,80,65,60,75,63
+3,Lavender,4,Aarohi B,60,60,60,70,60,65
+3,Lavender,5,Novith Jishnav,80,80,70,90,80,80
+3,Lavender,6,Vinanya reddy,80,50,35,55,65,45
+3,Lavender,7,Diyanshi Patnaik,70,65,45,60,68,53
+3,Lavender,8,Lokya lakshmi sri,70,70,75,70,70,73
+3,Lavender,9,Chetan N,60,50,60,70,55,65
+3,Lavender,10,Ved vihaan,80,80,75,70,80,73
+3,Lavender,11,Yashwith nanda,80,70,65,60,75,63
+3,Lavender,12,Josith reddy,60,70,65,65,65,65
+3,Lavender,13,Nandan J,80,70,75,70,75,73
+3,Lavender,14,Yuvansh Sripad,60,60,60,60,60,60
+3,Lavender,15,Geetanshi reddy,60,70,65,65,65,65
+3,Lavender,16,Shri Dvitha K,60,60,60,60,60,60
+3,Lavender,17,Supraja lakshmi,70,60,60,40,65,50
+3,Lavender,18,Rishika yelanki,30,50,60,70,40,65
+3,Lavender,19,Danish K,50,70,60,70,60,65
+3,Lavender,20,Anhiti Y,50,60,60,70,55,65
+3,Lavender,21,Jordan Dutt,60,60,70,70,60,70
+3,Lavender,22,Mahaan reddy,60,70,60,50,65,55
+3,Daisy,1,Nallamothu shreyansh,70,60,65,70,65,68
+3,Daisy,2,Piyusha rahul,45,55,55,55,50,55
+3,Daisy,3,Sahasra V,60,50,70,65,55,68
+3,Daisy,4,Aarush E,65,65,45,75,65,60
+3,Daisy,5,Jananya V,60,60,55,60,60,58
+3,Daisy,6,Aaraf Mohammud,30,30,25,20,30,23
+3,Daisy,7,Mahitha G,80,50,45,50,65,48
+3,Daisy,8,Amrutha P,65,45,25,40,55,33
+3,Daisy,9,Moksha reddy,70,50,35,40,60,38
+3,Daisy,10,Kethana sai,80,60,65,70,70,68
+3,Daisy,11,Hamsika S,60,75,55,50,68,53
+3,Daisy,12,Zoya Firdaus,90,50,45,60,70,53
+3,Daisy,13,Riyan Nagula,55,25,65,55,40,60
+3,Daisy,14,Riyansh sree,60,80,55,60,70,58
+3,Daisy,15,Akshith Surya,60,40,30,40,50,35
+3,Daisy,16,Mihika M,60,50,55,35,55,45
+3,Daisy,17,Sarayu V,70,30,30,30,50,30
+3,Daisy,18,Teekshitha S,80,60,70,70,70,70
+3,Daisy,19,Srinika Reddy,60,50,70,60,55,65
+3,Daisy,20,A Sai Reyansh,70,30,50,60,50,55
+3,Daisy,21,Nathan Samuels,70,70,40,50,70,45
+3,Daisy,22,Jayvi V,60,50,60,50,55,55
+3,Daisy,23,K Sai Akshaj,70,60,65,80,65,73
+3,Daisy,24,Arjun,30,20,0,0,25,0
+3,Daisy,25,Geeta Sri,90,80,70,90,85,80
+3,Daisy,26,Abhishikth,55,60,60,60,58,60
+3,Daisy,27,Havvian G,90,50,30,80,70,55
+3,Daisy,28,D Sai Riyansh,70,70,55,30,70,43
+3,Daisy,29,Grahathi N,70,50,40,20,60,30
+3,Daisy,30,Pratyush B,70,50,60,50,60,55
+3,Daisy,31,Shreyansh,60,60,60,70,60,65
+3,Daisy,32,Ivana,50,40,40,30,45,35
+3,Iris,1,Harshika Reddy,80,75,80,60,78,70
+3,Iris,2,Hitiksha sai,70,65,35,30,68,33
+3,Iris,3,Viraj julakanti,35,45,45,25,40,35
+3,Iris,4,BV Ketan,80,80,75,45,80,60
+3,Iris,5,Sriyansh Reddy,35,40,35,25,38,30
+3,Iris,6,Panyala Arvik,70,70,70,50,70,60
+3,Iris,7,Mokshit sai,90,90,80,60,90,70
+3,Iris,8,Pranav S,60,50,60,40,55,50
+3,Iris,9,Divyansh Reddy,80,60,75,50,70,63
+3,Iris,10,M Arnavi,50,30,40,30,40,35
+3,Iris,11,G Roshneshwar,60,50,40,30,55,35
+3,Iris,12,Virat K,90,90,85,60,90,73
+3,Iris,13,Anagha S,35,45,35,35,40,35
+3,Iris,14,Nihal Varma,20,20,20,20,20,20
+3,Iris,15,Vihaana R,90,75,90,50,83,70
+3,Iris,16,Eeshan Reddy,70,60,50,40,65,45
+3,Iris,17,Dakshith tej,60,70,40,30,65,35
+3,Iris,18,Sumith paul,40,30,25,50,35,38
+3,Iris,19,Devansh,75,45,65,35,60,50
+3,Iris,20,Advika Gade,75,55,55,45,65,50
+3,Iris,21,Pv sahasra,70,30,70,40,50,55
+3,Iris,22,Diya Reddy,40,40,60,20,40,40
+3,Iris,23,D Mohan,60,50,60,40,55,50
+3,Iris,24,Lohith sai,30,30,30,30,30,30
+3,Iris,25,Hima varsha,70,60,70,40,65,55
+3,Iris,26,Sriya sai,70,50,45,40,60,43
+3,Iris,27,Root ra,30,40,30,30,35,30
+3,Iris,28,Sai Siddharth,50,50,70,50,50,60
+3,Iris,29,Sahasra,80,70,70,50,75,60
+3,Iris,30,Rishant,80,40,60,60,60,60
+3,Iris,31,Revannsh A,40,40,45,40,40,43
+3,Iris,32,Geetansh,70,65,60,50,68,55
+3,Iris,33,Samhiti,80,85,80,60,83,70
+3,Aster,1,Bhavyan,50,60,60,60,55,60
+3,Aster,2,Harish,60,50,50,60,55,55
+3,Aster,3,Thaman,70,70,50,60,70,55
+3,Aster,4,Vedha,50,70,50,60,60,55
+3,Aster,5,Shiva,60,80,60,60,70,60
+3,Aster,6,Harshil,50,60,70,60,55,65
+3,Aster,7,Advait,60,50,50,50,55,50
+3,Aster,8,Esha,70,70,50,60,70,55
+3,Aster,9,Jaasvitha,50,70,70,70,60,70
+3,Aster,10,Arhaan,70,70,80,70,70,75
+3,Aster,11,Vehant,60,70,70,60,65,65
+3,Aster,12,Sahith,60,70,80,60,65,70
+3,Aster,13,Ahaan,70,80,50,50,75,50
+3,Aster,14,Naveen,50,50,40,50,50,45
+3,Tulip,1,Mahimaa,60,60,60,40,60,50
+3,Tulip,2,Eeshan,50,40,50,50,45,50
+3,Tulip,3,Jishan,70,70,70,70,70,70
+3,Tulip,4,Shovrya,50,50,50,50,50,50
+3,Tulip,5,Aditya,50,50,50,50,50,50
+4,Iris,1,Praveen sahas reddy,50,40,60,50,45,55
+4,Iris,2,Advith sai pallepati,50,40,50,40,45,45
+4,Iris,3,Moshitha,60,70,60,70,65,65
+4,Iris,4,Advith Reddy,60,65,60,70,63,65
+4,Iris,5,Kritikesh. S,70,65,60,70,68,65
+4,Iris,6,Nidhish skadan,30,70,65,60,50,63
+4,Iris,7,skandan Yadla,70,60,40,60,65,50
+4,Iris,8,Harshitha,60,60,50,50,60,50
+4,Iris,9,Honvitha K,70,60,50,50,65,50
+4,Iris,10,Yaksha. D,50,50,50,50,50,50
+4,Iris,11,Lakshith. M,60,80,50,60,70,55
+4,Iris,12,Lohith naga,60,60,40,40,60,40
+4,Iris,13,Vaishnavi Adluri,60,60,85,85,60,85
+4,Iris,14,Gokul Sai,50,50,50,40,50,45
+4,Iris,15,Sanjeev I,60,60,60,50,60,55
+4,Iris,16,Kohitha,50,60,50,70,55,60
+4,Iris,17,Neeha Sri,50,50,50,60,50,55
+4,Iris,18,Y Devansh,40,50,40,40,45,40
+4,Iris,19,Meganti sahasrad,30,40,40,60,35,50
+4,Iris,20,G Srinidhi,70,60,60,75,65,68
+4,Iris,21,Jagadishwar reddy,40,85,70,80,63,75
+4,Iris,22,Nishant,70,70,75,70,70,73
+4,Iris,23,Vidula,50,85,70,60,68,65
+4,Iris,24,Jaasritha,75,80,70,70,78,70
+4,Iris,25,Harshit ram,60,80,70,85,70,78
+4,Iris,26,Sai  Parnika,65,60,40,85,63,63
+4,Iris,27,Charita sree,55,80,70,70,68,70
+4,Iris,28,Arjun rao,65,80,60,70,73,65
+4,Iris,29,Jaswitha G,65,70,80,80,68,80
+4,Iris,30,Akshara,70,60,60,50,65,55
+4,Iris,31,Vivaansh,60,60,75,70,60,73
+4,Iris,32,Aashrith,60,70,70,80,65,75
+4,Iris,33,M Yakshit,70,80,60,70,75,65
+4,Iris,34,Dharshit reddy,70,70,70,45,70,58
+4,Iris,35,Abhinav mayuk,65,60,60,80,63,70
+4,Iris,36,K Yashika,70,60,60,50,65,55
+4,Iris,37,No name,30,30,40,40,30,40
+4,Aster,1,Ayansh saurabh,20,20,20,20,20,20
+4,Aster,2,Harnitha anjani,70,70,70,70,70,70
+4,Aster,3,C. Hitesh,25,30,40,40,28,40
+4,Aster,4,Hashim Sheikh,55,55,55,60,55,58
+4,Aster,5,Meenakshi Priya,25,25,25,25,25,25
+4,Aster,6,Gowri Siddhiksha,65,70,65,65,68,65
+4,Aster,7,Devanshi Koundinya,30,30,25,25,30,25
+4,Aster,8,Saisha koti,70,70,60,50,70,55
+4,Aster,9,Saanvi Joshi,60,60,65,45,60,55
+4,Aster,10,Nitya sharma,60,55,60,45,58,53
+4,Aster,11,Sujay reddy,60,50,55,70,55,63
+4,Aster,12,Hemanth venkat,30,30,25,30,30,28
+4,Aster,13,Srihan Reddy,30,30,25,35,30,30
+4,Aster,14,Jasmitha peddireddy,55,55,55,65,55,60
+4,Aster,15,Harshavardhan jairam,70,60,55,60,65,58
+4,Aster,16,Dantuluri Yashasvi,25,30,25,25,28,25
+4,Aster,17,R. Aadhvik,25,25,25,25,25,25
+4,Aster,18,Rishi Sri Adithya,55,60,55,55,58,55
+4,Aster,19,Riyansh Rithwik,25,25,25,25,25,25
+4,Aster,20,Vanshika. G,60,60,60,50,60,55
+4,Aster,21,Rudransh Kiran,55,55,55,55,55,55
+4,Aster,22,Nidhi reddy,75,60,75,80,68,78
+4,Aster,23,Aadhvika Komari,60,60,50,50,60,50
+4,Aster,24,Reyansh Pamarthi,70,60,70,50,65,60
+4,Aster,25,Lakshaya pranav,40,30,25,30,35,28
+4,Aster,26,Harshith Reddy,60,55,65,50,58,58
+4,Aster,27,Sri Krithi,55,65,55,55,60,55
+4,Aster,28,K Anvika,80,75,70,60,78,65
+4,Aster,29,Benjamin Varghese,60,70,65,70,65,68
+4,Aster,30,Yashasri,60,60,70,60,60,65
+4,Aster,31,Abhiram sai,65,65,60,60,65,60
+4,Orchid,1,Vasisht sai,45,45,45,45,45,45
+4,Orchid,2,Adhya reddy,70,70,60,45,70,53
+4,Orchid,3,Rithwik Reddy,60,70,65,40,65,53
+4,Orchid,4,Anshika Pracha,70,70,50,80,70,65
+4,Orchid,5,Anvitha pola,70,90,90,80,80,85
+4,Orchid,6,Dhanvitha lakshmi,70,70,60,65,70,63
+4,Orchid,7,Srihitha Kolamudi,80,70,90,60,75,75
+4,Orchid,8,Naga Karthikeya,40,70,50,75,55,63
+4,Orchid,9,Ekansh Akshat,80,90,70,90,85,80
+4,Orchid,10,Aaradhya vegsna,60,70,65,60,65,63
+4,Orchid,11,D Nihaal Reddy,70,70,65,70,70,68
+4,Orchid,12,Harshith. C,80,80,55,70,80,63
+4,Orchid,13,Joanna L,80,80,75,70,80,73
+4,Orchid,14,Nihanth. Y,60,40,40,50,50,45
+4,Orchid,15,G Riyansh,50,50,60,40,50,50
+4,Orchid,16,K. Sahasra,50,60,70,40,55,55
+4,Orchid,17,Poojyasri Gandhi,50,50,60,80,50,70
+4,Orchid,18,Peeyush rama,80,65,80,60,73,70
+4,Orchid,19,Sura Vaibhav,70,70,75,60,70,68
+4,Orchid,20,Vishitha Gari,70,65,80,50,68,65
+4,Orchid,21,K Mukund,70,40,60,80,55,70
+4,Orchid,22,Vilohit,70,85,65,75,78,70
+4,Orchid,23,Poorvith,75,75,75,75,75,75
+4,Orchid,24,Prajwal,70,70,70,80,70,75
+4,Orchid,25,Vihan reddy,80,70,70,65,75,68
+4,Orchid,26,Charvik Skanda,75,85,80,60,80,70
+4,Orchid,27,Harsha,60,60,80,70,60,75
+4,Orchid,28,Ridhi,70,70,55,70,70,63
+4,Orchid,29,Mahidhar,70,70,80,80,70,80
+4,Orchid,30,Dhanvika,90,80,80,60,85,70
+4,Orchid,31,Darshik Y,75,60,80,75,68,78
+4,Orchid,32,Nihaal,60,70,70,60,65,65
+4,Orchid,33,Siva ramu,60,70,50,60,65,55
+4,Lavender,1,Parthav nandan,50,60,60,50,55,55
+4,Lavender,2,Sathwik Bahata,70,60,50,60,65,55
+4,Lavender,3,Koushik Chowdary,80,70,60,40,75,50
+4,Lavender,4,Amaya Chaturvedi,60,70,55,80,65,68
+4,Lavender,5,Darisi Sositha,80,75,65,70,78,68
+4,Lavender,6,Vijaya Pranusha,80,70,55,45,75,50
+4,Lavender,7,Shruja reddy,80,60,65,60,70,63
+4,Lavender,8,Aaraddhya Sridhar,70,70,70,70,70,70
+4,Lavender,9,Aadhya Balakrishna,70,70,65,60,70,63
+4,Lavender,10,Karthikeya Reddy,80,80,85,70,80,78
+4,Lavender,11,Samarjeet singh,80,75,75,70,78,73
+4,Lavender,12,Jaishwitha Reddy,70,60,70,80,65,75
+4,Lavender,13,Chaturya. K,70,70,70,50,70,60
+4,Lavender,14,Pariventhan MS,80,75,75,60,78,68
+4,Lavender,15,Yashasree. G,70,70,55,80,70,68
+4,Lavender,16,Lavith Aarya,70,70,65,60,70,63
+4,Lavender,17,Amartya Deepak,60,60,65,50,60,58
+4,Lavender,18,Bharadwaj. L,75,65,75,65,70,70
+4,Lavender,19,Novika Sri,70,80,80,60,75,70
+4,Lavender,20,Unnati Tummidi,60,75,70,60,68,65
+4,Lavender,21,Rithvik Vihaan,80,70,70,50,75,60
+4,Lavender,22,Nandith,80,70,65,50,75,58
+4,Lavender,23,lohith sai,50,80,80,70,65,75
+4,Lavender,24,Sashita,70,70,70,70,70,70
+4,Lavender,25,Charan,70,80,75,70,75,73
+4,Lavender,26,Humshika,80,80,60,60,80,60
+4,Lavender,27,K Yakshith,80,80,90,40,80,65
+4,Lavender,28,Reyyanssh,80,70,60,65,75,63
+4,Lavender,29,A Pranveetha,40,50,80,90,45,85
+4,Lavender,30,Hadvitha,65,65,80,90,65,85
+4,Lavender,31,B Hanshik,80,80,50,50,80,50
+4,Lavender,32,Partheev,50,80,80,70,65,75
+4,Lavender,33,Bhavin,80,70,50,50,75,50
+4,Lavender,34,Deepshith varma,60,40,50,50,50,50
+4,Daisy,1,Varshit Phanendra,60,70,50,55,65,53
+4,Daisy,2,Khushal devangan,60,80,50,65,70,58
+4,Daisy,3,Smithika Ch,60,75,55,80,68,68
+4,Daisy,4,D Chandhini,80,80,60,40,80,50
+4,Daisy,5,Pranavi V,65,80,55,75,73,65
+4,Daisy,6,Dayita sree,65,70,65,65,68,65
+4,Daisy,7,Jenita Reddy,60,70,65,70,65,68
+4,Daisy,8,Saranika singh,70,70,70,65,70,68
+4,Daisy,9,Jishnu Chanduru,50,40,30,30,45,30
+4,Daisy,10,D Nihaal,60,60,50,60,60,55
+4,Daisy,11,Nihaal,80,75,75,45,78,60
+4,Daisy,12,Tejash Marisetti,70,70,75,80,70,78
+4,Daisy,13,Samanvi A,70,80,80,40,75,60
+4,Daisy,14,Vudvitha K,80,80,90,60,80,75
+4,Daisy,15,Shaik Rijja,70,70,75,50,70,63
+4,Daisy,16,Viaan Samuel,70,70,70,50,70,60
+4,Daisy,17,Shanmukh,60,60,70,80,60,75
+4,Daisy,18,Manit,90,70,70,60,80,65
+4,Daisy,19,S Rama,90,90,70,50,90,60
+4,Daisy,20,Arnesh,60,70,90,90,65,90
+4,Daisy,21,Rishvan,70,80,85,60,75,73
+4,Daisy,22,Mokshith reddy,80,80,80,80,80,80
+4,Daisy,23,Puneet,80,80,70,80,80,75
+4,Daisy,24,Shriyansh,70,80,45,60,75,53
+4,Daisy,25,Vikunth G,60,60,55,50,60,53
+4,Daisy,26,Sai Juhitha N,90,60,60,55,75,58
+4,Daisy,27,A Tejash Sairaj,60,80,75,90,70,83
+4,Daisy,28,Duke,70,70,60,50,70,55
+4,Daisy,29,Rohan Karthikeya,40,70,65,50,55,58
+4,Daisy,30,no name,70,70,70,70,70,70
+4,Pansy,1,Kushitha,50,60,70,60,55,65
+4,Pansy,2,Jeevan,50,70,60,60,60,60
+4,Pansy,3,Vaddepally Adhya,60,60,65,80,60,73
+4,Pansy,4,Venkata Nikunj,50,60,65,80,55,73
+4,Pansy,5,Sri Vibha,70,65,55,80,68,68
+4,Pansy,6,Aadhya bowenpally,70,60,45,80,65,63
+4,Pansy,7,Alkrit Tirumalasetty,65,65,65,65,65,65
+4,Pansy,8,Suhas Reddy,55,55,65,65,55,65
+4,Pansy,9,Perala nakshatra,80,65,55,55,73,55
+4,Pansy,10,Dhatri sri,55,65,55,75,60,65
+4,Pansy,11,Khaathvik Krishna,80,75,65,75,78,70
+4,Pansy,12,Varshith,80,60,90,90,70,90
+4,Pansy,13,P Saanvika,65,75,65,55,70,60
+4,Pansy,14,B. Anvith,40,50,50,60,45,55
+4,Pansy,15,Harshitha kolla,70,70,60,70,70,65
+4,Pansy,16,Atmuri gautam,70,80,65,80,75,73
+4,Pansy,17,Chandra kamal,55,65,55,75,60,65
+4,Pansy,18,Shanvith Arja,65,65,55,85,65,70
+4,Pansy,19,Puneeth Shourya,65,80,70,80,73,75
+4,Pansy,20,K Manaswini,60,60,60,75,60,68
+4,Pansy,21,B Chaitrika,90,80,80,60,85,70
+4,Pansy,22,Kushal chetan,60,60,65,75,60,70
+4,Pansy,23,Kaarunya A,70,65,80,80,68,80
+4,Pansy,24,Aparna sri,80,80,80,70,80,75
+4,Pansy,25,Kushal reddy,80,65,55,70,73,63
+4,Pansy,26,Avanthika C,70,60,65,60,65,63
+4,Pansy,27,Chetan Bonpalli,65,65,80,55,65,68
+4,Pansy,28,N Geetanvitha,50,70,90,80,60,85
+4,Pansy,29,Bhavin,80,80,70,75,80,73
+4,Pansy,30,Vivaan,80,80,80,85,80,83
+4,Pansy,31,Shreyansh neel,75,70,70,80,73,75
+4,Pansy,32,Manvith,60,60,60,85,60,73
+4,Pansy,33,Viraj Varma,70,65,50,70,68,60
+4,Pansy,34,Kushitha,60,60,65,75,60,70
+4,Pansy,35,V Krithik,70,75,60,60,73,60
+4,Pansy,36,Advith,70,70,60,70,70,65
+4,Tulip,1,Ishanth reddy,20,20,20,20,20,20
+4,Tulip,2,Bhavit Reddy,30,20,20,20,25,20
+4,Tulip,3,D Gyanika,90,90,80,70,90,75
+4,Tulip,4,Bhuvaneshwari V,90,80,100,80,85,90
+4,Tulip,5,Sri Ram,90,80,80,70,85,75
+4,Tulip,6,Aishani. A,100,100,100,90,100,95
+4,Tulip,7,Geetanshika,70,70,70,60,70,65
+4,Tulip,8,Tharunika sai,80,70,70,90,75,80
+4,Tulip,9,Aditri bhadri,75,80,70,55,78,63
+4,Tulip,10,Gnana Mayukha,100,100,90,100,100,95
+4,Tulip,11,G Aadya,80,55,80,50,68,65
+4,Tulip,12,A. Nihaal,50,60,50,50,55,50
+4,Tulip,13,Vedvarsh G,70,80,70,60,75,65
+4,Tulip,14,Aadvik p,70,80,70,70,75,70
+4,Tulip,15,Rishika p,90,80,80,70,85,75
+4,Tulip,16,Aryan Vishwa,80,80,80,50,80,65
+4,Tulip,17,Mahant Reddy,80,90,90,80,85,85
+4,Tulip,18,Shivansh Satya,85,80,70,90,83,80
+4,Tulip,19,Devik tej V,75,80,60,80,78,70
+4,Tulip,20,Takshil S,80,60,70,70,70,70
+4,Tulip,21,Shihan Reddy,90,80,65,90,85,78
+4,Tulip,22,Jaithra Sai,70,90,70,90,80,80
+4,Tulip,23,Sanjay Dikshith,65,80,75,65,73,70
+4,Tulip,24,Nihal A,75,75,75,55,75,65
+4,Tulip,25,Shaik Arshad,80,50,50,50,65,50
+4,Tulip,26,Gyatwik,40,40,40,40,40,40
+5,Orchid,1,Rishith Reddy,50,40,30,20,45,25
+5,Orchid,2,Atharva,50,80,80,80,65,80
+5,Orchid,3,Sujay,50,80,70,70,65,70
+5,Orchid,4,Govind Karthikeya,70,80,80,60,75,70
+5,Orchid,5,Vilok chandra,60,70,70,60,65,65
+5,Orchid,6,Charit Reddy,40,80,70,60,60,65
+5,Orchid,7,Gera Riosiril,60,70,65,50,65,58
+5,Orchid,8,G Moksha,60,60,60,70,60,65
+5,Orchid,9,Adhwiti Deshini,40,60,60,50,50,55
+5,Orchid,10,Jaishwitha pilli,70,70,60,60,70,60
+5,Orchid,11,Mamidala Vishrudh,60,60,60,30,60,45
+5,Orchid,12,Ruthvik sai,40,70,70,50,55,60
+5,Orchid,13,Sri Aadhya,60,80,80,50,70,65
+5,Orchid,14,Vanshika irukula,60,60,70,50,60,60
+5,Orchid,15,Rushita Mandava,50,70,60,30,60,45
+5,Orchid,16,Lohitha Kondeti,70,70,60,60,70,60
+5,Orchid,17,Akshith Reddy,40,60,70,40,50,55
+5,Orchid,18,Riyansh Reddy,50,50,50,50,50,50
+5,Orchid,19,Sai harsha,30,50,50,30,40,40
+5,Orchid,20,Nikhilesh S,60,70,60,50,65,55
+5,Orchid,21,K Sanishka,60,70,60,50,65,55
+5,Orchid,22,Ayushi,70,40,65,70,55,68
+5,Orchid,23,Karthik,60,70,65,60,65,63
+5,Orchid,24,Jashmitha,70,40,65,50,55,58
+5,Orchid,25,Neerja Shri,70,70,55,50,70,53
+5,Orchid,26,Sathvik D,20,20,20,40,20,30
+5,Orchid,27,Kowshik reddy,30,50,50,40,40,45
+5,Orchid,28,Vishnuvardhan reddy,20,40,40,30,30,35
+5,Orchid,29,K muni Pradham,40,50,50,40,45,45
+5,Orchid,30,Avanthika V,30,30,40,50,30,45
+5,Orchid,31,Tanishka,0,0,0,0,0,0
+5,Orchid,32,Hemal,0,0,0,0,0,0
+5,Aster,1,Ayesha Yumma,70,70,80,60,70,70
+5,Aster,2,Arpeet mahapatra,70,80,65,80,75,73
+5,Aster,3,Yuva Sree,80,80,70,100,80,85
+5,Aster,4,Aratrika Deb,80,80,60,70,80,65
+5,Aster,5,Mokshith tej,40,60,70,60,50,65
+5,Aster,6,Pushti P,50,80,60,80,65,70
+5,Aster,7,Ramnathkar,60,60,80,70,60,75
+5,Aster,8,Jashika naga,70,80,70,70,75,70
+5,Aster,9,Loukya Sri,80,90,70,80,85,75
+5,Aster,10,Devansh Cherukuri,60,50,70,60,55,65
+5,Aster,11,Karthik Vaibhav,40,50,60,70,45,65
+5,Aster,12,Pattapu snehitha,70,80,70,70,75,70
+5,Aster,13,Jhiyanshi M,60,80,70,80,70,75
+5,Aster,14,Harshil sai,70,60,50,70,65,60
+5,Aster,15,Anirudh K,80,80,50,70,80,60
+5,Aster,16,Divith dutta,60,60,70,70,60,70
+5,Aster,17,Sacharith,20,20,20,20,20,20
+5,Aster,18,Kaustubha,60,50,40,40,55,40
+5,Aster,19,Piyush senapati,80,90,80,90,85,85
+5,Aster,20,Sai Divisha,70,80,60,60,75,60
+5,Aster,21,Ananya batchu,80,80,80,100,80,90
+5,Aster,22,Rishan Katwe,70,70,60,70,70,65
+5,Aster,23,Samskruthi P,70,80,60,70,75,65
+5,Aster,24,Sri Greeshma,40,40,40,40,40,40
+5,Aster,25,Chaitanya Sai,70,70,60,70,70,65
+5,Aster,26,Surya Teja,80,60,60,80,70,70
+5,Aster,27,B yuvansh,70,75,50,60,73,55
+5,Aster,28,C Ashwath,70,70,60,60,70,60
+5,Aster,29,Jathin,30,30,10,10,30,10
+5,Aster,30,Hamsini,50,80,60,60,65,60
+5,Aster,31,V Dhanvitha,70,80,80,85,75,83
+5,Aster,32,Manaswini D,80,80,90,70,80,80
+5,Aster,33,Jaikar,50,80,85,70,65,78
+5,Aster,34,Harshit,70,60,70,65,65,68
+5,Lavender,1,Akshay Tripathi,80,70,60,60,75,60
+5,Lavender,2,Sahasra Naga,70,70,75,70,70,73
+5,Lavender,3,M Harshita,50,70,70,60,60,65
+5,Lavender,4,P Nihitha reddy,50,60,70,60,55,65
+5,Lavender,5,Sananda nookala,70,50,60,70,60,65
+5,Lavender,6,A sri Jahnavi,70,60,60,70,65,65
+5,Lavender,7,Adrija pamidi,60,60,50,60,60,55
+5,Lavender,8,Tanvi Priya,60,70,50,60,65,55
+5,Lavender,9,Jhasvi Shivanagari,30,30,20,20,30,20
+5,Lavender,10,Azfar Adnan,40,50,70,60,45,65
+5,Lavender,11,Mithun M,80,70,60,70,75,65
+5,Lavender,12,Parthu T,60,70,60,60,65,60
+5,Lavender,13,T Aloha,60,60,80,80,60,80
+5,Lavender,14,NSN Nitya,80,80,90,80,80,85
+5,Lavender,15,Sudhiksha V,50,70,50,40,60,45
+5,Lavender,16,Leela sri,70,80,70,80,75,75
+5,Lavender,17,G Bhavagna,50,70,50,60,60,55
+5,Lavender,18,Harshitha,80,80,90,90,80,90
+5,Lavender,19,Thaswitha,50,70,75,70,60,73
+5,Lavender,20,Rhoda,70,80,90,90,75,90
+5,Lavender,21,S Saanvi sri,80,60,80,70,70,75
+5,Lavender,22,Naithik,50,75,80,80,63,80
+5,Lavender,23,Karthikeya,50,70,60,80,60,70
+5,Lavender,24,Yashaswini lalitha,60,70,80,60,65,70
+5,Lavender,25,V Havish,60,70,80,80,65,80
+5,Lavender,26,Shrivya,70,50,40,70,60,55
+5,Lavender,27,Vedarshika K,40,40,65,60,40,63
+5,Lavender,28,Manasvi M,80,70,80,90,75,85
+5,Lavender,29,Diya,60,75,65,70,68,68
+5,Lavender,30,D Neetal,30,40,30,40,35,35
+5,Lavender,31,Hritika D,30,40,30,30,35,30
+5,Lavender,32,unnamed paper,40,30,30,30,35,30
+5,Lavender,33,unnamed paper,30,40,40,50,35,45
+5,Lavender,34,unnamed paper,30,40,30,30,35,30
+5,Daisy,1,Satya Sai,70,60,60,80,65,70
+5,Daisy,2,Sai anish,80,60,50,60,70,55
+5,Daisy,3,Tejaswi S,50,60,50,50,55,50
+5,Daisy,4,Lakshith A,80,70,70,70,75,70
+5,Daisy,5,Dhriti Sri,60,60,65,80,60,73
+5,Daisy,6,SSAV Akhil,70,70,65,70,70,68
+5,Daisy,7,Lakshay A,70,80,70,80,75,75
+5,Daisy,8,J Thanusree,70,80,80,80,75,80
+5,Daisy,9,Satwik,50,50,80,85,50,83
+5,Daisy,10,Heeran,70,90,80,70,80,75
+5,Daisy,11,A Thansi,70,60,80,90,65,85
+5,Daisy,12,Spoorthi,80,80,60,70,80,65
+5,Daisy,13,Y Mokshitha,70,90,85,85,80,85
+5,Daisy,14,Pranith reddy,50,80,55,70,65,63
+5,Daisy,15,Harshali,50,60,80,75,55,78
+5,Daisy,16,K Karthik,80,85,85,90,83,88
+5,Daisy,17,Tanvika J,70,90,85,85,80,85
+5,Daisy,18,M Karthik,80,90,80,80,85,80
+5,Daisy,19,Thanish,70,65,60,90,68,75
+5,Daisy,20,Tanvi sree,80,90,90,90,85,90
+5,Daisy,21,Sahasra,60,80,75,90,70,83
+5,Daisy,22,Aadhya,60,55,70,60,58,65
+5,Daisy,23,Gowri Sri,70,70,70,60,70,65
+5,Daisy,24,Nigun G,70,50,70,85,60,78
+5,Daisy,25,Anvi,80,60,85,65,70,75
+5,Daisy,26,Vedansh,70,80,90,90,75,90
+5,Daisy,27,Vyshnavi varma,60,75,60,60,68,60
+5,Daisy,28,P Meghana,60,75,65,80,68,73
+5,Daisy,29,Sohan,60,75,70,80,68,75
+5,Daisy,30,Rohan,60,60,50,70,60,60
+5,Daisy,31,No name,60,70,70,70,65,70
+5,Iris,1,Sai Mourya,80,80,80,80,80,80
+5,Iris,2,Mounika killi,30,30,30,30,30,30
+5,Iris,3,Hithesh krishna,90,90,90,90,90,90
+5,Iris,4,Varnika reddy,55,65,55,65,60,60
+5,Iris,5,Hasitha reddy,30,30,30,40,30,35
+5,Iris,6,Revanya Reddy,60,70,70,70,65,70
+5,Iris,7,Bhavitha M,70,70,80,90,70,85
+5,Iris,8,Hitesh Reddy,55,65,55,55,60,55
+5,Iris,9,lohitha P,70,80,55,70,75,63
+5,Iris,10,Daiwik Malgay,70,80,55,80,75,68
+5,Iris,11,Aneeksha,75,85,80,50,80,65
+5,Iris,12,Hansvi B,70,60,60,70,65,65
+5,Iris,13,Vishwak Reddy,80,90,90,70,85,80
+5,Iris,14,Advik N,80,80,70,70,80,70
+5,Iris,15,Sunidhi G,75,75,35,55,75,45
+5,Iris,16,Sathvika P,65,75,65,55,70,60
+5,Iris,17,Dhruvitha A,70,50,65,60,60,63
+5,Iris,18,Shrujan kasani,65,65,65,75,65,70
+5,Iris,19,Abhirama N,75,65,45,65,70,55
+5,Iris,20,Pranith D,70,60,65,75,65,70
+5,Iris,21,Bhuvan P,60,80,65,25,70,45
+5,Iris,22,Asmitha V,65,75,75,75,70,75
+5,Iris,23,Avyukt G,35,55,45,65,45,55
+5,Iris,24,Adhya S,60,70,55,65,65,60
+5,Iris,25,Eswar Sai,40,70,90,60,55,75
+5,Iris,26,Tijil Krishna,65,80,75,75,73,75
+5,Iris,27,Dhanvitha K,50,40,65,35,45,50
+5,Iris,28,Siddharth I,60,70,70,60,65,65
+5,Iris,29,Yuvan Karthik,70,70,60,70,70,65
+5,Iris,30,Yugendher A,60,70,70,60,65,65
+5,Iris,31,Visesh K,80,70,80,90,75,85
+5,Iris,32,Vadala Arush,80,80,70,90,80,80
+5,Iris,33,Jahnavi,90,90,90,90,90,90
+5,Iris,34,Madhusiri Naga,40,70,60,60,55,60
+5,Iris,35,Vennika,70,60,80,60,65,70
+5,Iris,36,Harthika,70,70,70,60,70,65
+5,Tulip,1,Dhruv Sreedasyan,70,60,70,70,65,70
+5,Tulip,2,Veeksha K,70,80,70,80,75,75
+5,Tulip,3,Aashvi,65,45,75,75,55,75
+5,Tulip,4,Vaishnavi,65,35,75,65,50,70
+5,Tulip,5,Vedansh,70,80,80,90,75,85
+5,Tulip,6,Aditya,55,80,80,80,68,80
+5,Tulip,7,Snigdha,60,80,70,70,70,70
+5,Tulip,8,Sameeksha,70,80,90,90,75,90
+5,Tulip,9,Sreevatsava,60,70,80,70,65,75
+5,Tulip,10,Himaja,60,70,55,65,65,60
+5,Tulip,11,Rishabh,80,90,45,90,85,68
+5,Tulip,12,Vihaan,75,75,75,70,75,73
+5,Tulip,13,Koshita g,60,80,80,100,70,90
+5,Tulip,14,Ayaanshh C,70,80,80,90,75,85
+5,Tulip,15,B Ananya,80,90,90,90,85,90
+5,Tulip,16,Harshith Sai,70,90,90,90,80,90
+5,Tulip,17,Varshith M,80,90,90,70,85,80
+5,Tulip,18,Viwan U,70,75,85,90,73,88
+5,Tulip,19,Sudarshan B,70,85,75,90,78,83
+5,Tulip,20,Hanshik veera,60,55,55,55,58,55
+5,Tulip,21,Ananya tiwari,70,70,60,60,70,60
+5,Tulip,22,Dhanasvi sai,40,50,80,80,45,80
+5,Tulip,23,Shasini Reddy,60,70,80,70,65,75
+5,Tulip,24,Anukar Sri,60,65,85,80,63,83
+5,Tulip,25,Rithvan sri,70,85,65,80,78,73
+5,Tulip,26,Kaushal sai,85,85,85,85,85,85
+5,Tulip,27,Lohitaksh royal,85,85,85,85,85,85
+5,Tulip,28,Varad mayur,60,70,70,70,65,70
+5,Tulip,29,Viyan E,70,70,80,80,70,80
+5,Tulip,30,Sai trijal,70,70,70,70,70,70
+5,Tulip,31,Riyan Psk,50,40,60,70,45,65
+5,Tulip,32,Noha,10,40,50,50,25,50
+5,Tulip,33,Yajwin sai,45,70,75,75,58,75
+5,Pansy,1,Taneesh P,60,80,55,80,70,68
+5,Pansy,2,Komali E,70,70,75,80,70,78
+5,Pansy,3,Sarvjna,40,60,50,40,50,45
+5,Pansy,4,Mukund A,40,70,70,70,55,70
+5,Pansy,5,Venella K,50,60,45,80,55,63
+5,Pansy,6,Suhil veer,50,60,50,80,55,65
+5,Pansy,7,Vinesh B,70,80,75,75,75,75
+5,Pansy,8,Chaitrika P,70,70,55,75,70,65
+5,Pansy,9,Bhavishya Reddy,55,55,55,45,55,50
+5,Pansy,10,Reyansh Kumar,55,65,55,70,60,63
+5,Pansy,11,Likith A,55,55,55,60,55,58
+5,Pansy,12,Diyansh M,35,55,45,45,45,45
+5,Pansy,13,Risvith Gade,55,60,55,55,58,55
+5,Pansy,14,teja aarohi,45,70,55,35,58,45
+5,Pansy,15,Manvitha M,45,55,55,65,50,60
+5,Pansy,16,Kishan M,70,70,75,70,70,73
+5,Pansy,17,Sohan N,40,60,50,40,50,45
+5,Pansy,18,Harshitha I,50,60,50,70,55,60
+5,Pansy,19,Niharika U,40,50,55,50,45,53
+5,Pansy,20,Shishira K,60,70,75,80,65,78
+5,Pansy,21,Lohitha P,40,60,80,70,50,75
+5,Pansy,22,Shaurya Tej,50,70,60,70,60,65
+5,Pansy,23,Hanvith V,40,70,50,60,55,55
+5,Pansy,24,T Ishan,50,60,70,70,55,70
+5,Pansy,25,loukik reddy,70,60,50,30,65,40
+5,Pansy,26,Nitya Nvss,70,70,70,60,70,65
+5,Pansy,27,Tripura P,50,50,80,70,50,75
+5,Pansy,28,Sriyan Rao,60,70,90,70,65,80
+5,Pansy,29,Lakshmi ashwini,60,50,80,80,55,80
+5,Pansy,30,Jatvik,60,70,70,70,65,70
+5,Pansy,31,Nakshatra,30,30,40,30,30,35
+5,Pansy,32,Shri Tanya,30,30,40,20,30,30
+5,Pansy,33,G Smayan,20,0,30,20,10,25

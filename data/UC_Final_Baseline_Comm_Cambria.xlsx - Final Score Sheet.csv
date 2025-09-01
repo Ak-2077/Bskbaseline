@@ -1,0 +1,513 @@
+Grade,Div,Student ID,Name,Articulation %,Structured Thinking %,Body Language %,Audience Engagement %,Ability to speak - Total (Out of 20) %,Ability to Engage- Total (Out of 20) %
+1,A,1,Aariv Singh,85,60,85,40,73,63
+1,A,2,Arnav Ladke,45,60,45,45,53,45
+1,A,3,Avaanika Sachdev,65,75,65,45,70,55
+1,A,4,Ayansh Abhilash Amin,25,30,25,10,28,18
+1,A,5,Devashree Deepak Rathod,55,40,45,50,48,48
+1,A,6,Dhairya Vijay Ramani,45,40,55,45,43,50
+1,A,7,Dhruvi Sanjay Dagwale,65,80,55,55,73,55
+1,A,8,Diva Kishore Rohra,70,65,70,40,68,55
+1,A,9,Divija Amol Patil,55,70,60,50,63,55
+1,A,10,Haami Suhelmed Kulkarni,30,45,35,40,38,38
+1,A,11,Hitansh Kunal Pahuja,50,40,45,45,45,45
+1,A,12,Jivika Basantkumar Nayak,70,65,50,50,68,50
+1,A,13,Kanak Karia,70,60,45,55,65,50
+1,A,14,Kavyansh Dhiraj Patil,55,55,40,40,55,40
+1,A,15,Kiaan Himat Mange,45,60,40,35,53,38
+1,A,16,Manasvi Nilesh Chorage,50,65,55,40,58,48
+1,A,17,Nihan Sameeran Upasani,55,50,65,40,53,53
+1,A,18,Nitya Pravin Shukla,65,50,50,45,58,48
+1,A,19,Nyra Pranay Bhoir,40,45,55,50,43,53
+1,A,20,Paras Rakesh Bhoir,35,50,55,35,43,45
+1,A,21,Pearl Lovesh Sonawat,50,55,30,50,53,40
+1,A,22,Prapti Sachin Jadhav,55,50,50,55,53,53
+1,A,23,Rashi Rahul Bhandare,40,40,65,30,40,48
+1,A,24,Shivansh Adinath Zade,50,65,40,30,58,35
+1,A,25,Shreeya Vaikunthe,55,80,75,55,68,65
+1,A,26,Shyna Vinay Punjabi,70,65,70,50,68,60
+1,A,27,Sia Santosh Naik,70,70,75,55,70,65
+1,A,28,Siddhi Darshan Divte,50,50,50,30,50,40
+1,A,29,Vedarth Chetan Nakhawa,40,30,40,40,35,40
+1,A,30,Viaan Vinod Mathyodu,65,75,65,45,70,55
+1,A,31,Vivansh Prashant Thorat,55,45,40,40,50,40
+1,A,32,Yutika Jain,35,50,45,30,43,38
+1,B,1,Aaroh Ajay Bhatkar,65,50,50,55,58,53
+1,B,2,Advait Nagesh Mhaskar,65,50,55,40,58,48
+1,B,3,Devansh Bhasme,50,55,60,45,53,53
+1,B,4,Diyaan Deepesh Patel,35,40,25,30,38,28
+1,B,5,Hetal Atul Waykole,70,75,65,55,73,60
+1,B,6,Jeevika Rahul Bajaj,65,40,40,30,53,35
+1,B,7,Jia Amit Dodwani,80,70,70,65,75,68
+1,B,8,Jiyansh Pahuja,45,40,35,30,43,33
+1,B,9,Jonita Wilson Nadar,60,70,50,45,65,48
+1,B,10,Kavya Lazar,85,65,60,50,75,55
+1,B,11,Kriday Chetan Chaudhari,60,65,45,50,63,48
+1,B,12,Mishaa Deepak Dodeja,65,50,40,35,58,38
+1,B,13,Myra Tarun Motwani,60,55,45,45,58,45
+1,B,14,Nakshatra Karabasappa Chaudhari,65,45,50,40,55,45
+1,B,15,Niket Rakesh Kandare,45,35,35,20,40,28
+1,B,16,Nysha Sunny Janyani,60,75,60,65,68,63
+1,B,17,Preesha Sonal Badole,40,35,40,35,38,38
+1,B,18,Purvit Satish Awar,35,45,35,30,40,33
+1,B,19,Reyansh Rajkumar Chauhan,30,40,40,45,35,43
+1,B,20,Reyansh Roy,70,75,55,40,73,48
+1,B,21,Ruddhi Karan Jain,50,55,50,45,53,48
+1,B,22,Ruella Russell Lobo,75,70,70,65,73,68
+1,B,23,Saachi Prakash Sangtani,70,90,75,50,80,63
+1,B,24,Shivanshraj Nitinraj Gerella,40,55,35,35,48,35
+1,B,25,Shivtej Mandar Belote,50,40,35,40,45,38
+1,B,26,Tarang Sandip Bhoir,40,35,35,30,38,33
+1,B,27,Taranya Nitin Ranjane,40,45,30,50,43,40
+1,B,28,Triaksha Suryavanshi,35,50,40,30,43,35
+1,B,29,Tvisha Haresh Bhoir,60,45,55,45,53,50
+1,B,30,Vidyut Rajesh Pandey,40,50,40,30,45,35
+1,B,31,Viransh Lulla,45,35,30,35,40,33
+1,B,32,Yuvaan Krishna Padhy,65,70,50,50,68,50
+1,C,1,Aadya Amol Chabukswar,55,30,35,55,43,45
+1,C,2,Aahan Vijay Sontakke,40,40,40,30,40,35
+1,C,3,Aarish Pawan Tolani,50,55,20,25,53,23
+1,C,4,Advay Sameeran Upasani,30,40,35,50,35,43
+1,C,5,Amyra Imran Khan,55,55,35,50,55,43
+1,C,6,Anokh Tejas Waghmare,30,30,30,20,30,25
+1,C,7,Arnav Sachin Palshetkar,60,40,45,50,50,48
+1,C,8,Ashvik Vikas Gode,50,50,20,35,50,28
+1,C,9,Devaansh Vikas Sundrani,45,60,30,40,53,35
+1,C,10,Duneeth Amit Vaikunthe,60,25,30,40,43,35
+1,C,11,Harit Haresh Patel,45,40,45,35,43,40
+1,C,12,Hitiksha Nikhil Jayanani,45,30,40,35,38,38
+1,C,13,Jennika Rahul Bajaj,60,35,35,50,48,43
+1,C,14,Kyna Santosh Vaswani,30,60,40,50,45,45
+1,C,15,Lavith Nitin Bhatia,40,55,35,30,48,33
+1,C,16,Nishita Vijay Chawla,75,40,35,50,58,43
+1,C,17,Niva Pratik Patkar,30,40,35,25,35,30
+1,C,18,Ovi Ajay Bhatkar,50,20,50,50,35,50
+1,C,19,Rigved Naik,55,55,35,50,55,43
+1,C,20,Ruhi Pavan Matlani,40,50,40,30,45,35
+1,C,21,Samaira Pradeep Kukreja,35,45,20,35,40,28
+1,C,22,Samit Sumit Sawant,40,50,45,60,45,53
+1,C,23,Sanvi Ravikant Mishra,35,30,40,20,33,30
+1,C,24,Sayari Rohan Jagtap,55,50,45,35,53,40
+1,C,25,Shivansh Abhijeet Diwate,50,55,25,50,53,38
+1,C,26,Shivay Choudhary,50,50,45,40,50,43
+1,C,27,Shloka Jitesh Belani,70,50,35,30,60,33
+1,C,28,Shravan Pravin Thorbole,50,40,40,50,45,45
+1,C,29,Shravya Madhur Mhatre,45,55,35,35,50,35
+1,C,30,Survi Ravindra Sawant,40,50,40,30,45,35
+1,C,31,Trisharan Kamble,60,35,30,45,48,38
+1,C,32,Vihan Mangesh Kokane,40,50,45,30,45,38
+1,C,33,Vihana Rohan Jaju,75,50,55,50,63,53
+1,C,34,Virat Dhirendra Rajbhar,45,80,40,70,63,55
+1,C,35,Yohaan Navin Somai,50,40,25,50,45,38
+1,D,1,Aarya Advait Gogate ,50,45,50,45,48,48
+1,D,2,Aditya Nilesh Manohar,35,25,30,30,30,30
+1,D,3,Arahang Anupam Kakade,30,50,35,20,40,28
+1,D,4,Felix Sandy Pagadyal,65,70,55,55,68,55
+1,D,5,Husaina Aliasgar Dahodwala,50,45,55,40,48,48
+1,D,6,Lavit Ravi Valecha ,30,35,50,30,33,40
+1,D,7,Navyaa Ashish Ram,60,45,60,45,53,53
+1,D,8,Nitya Kashyap,55,70,50,50,63,50
+1,D,9,Shourya Lahu Dongare,40,30,45,30,35,38
+1,D,10,Stutee Sonalkumar Ugale,60,35,50,45,48,48
+1,D,11,Trisha Kunal Waman,60,40,65,55,50,60
+1,D,12,Viyang Vaibhav,40,40,25,35,40,30
+1,D,13,Yuvan Nilesh Pandey,55,55,50,40,55,45
+2,A,1,Aaradhya Chetan Badgujar,40,45,55,45,43,50
+2,A,2,Abhir Abhishek Sangle,60,45,35,45,53,40
+2,A,3,Aditya Devendra Patel,35,35,35,30,35,33
+2,A,4,Akshara Dhananjay Surte,35,60,60,40,48,50
+2,A,5,Atharv Krishna Rawool,60,45,40,55,53,48
+2,A,6,Ayush Deepak Wakchaure,60,55,55,55,58,55
+2,A,7,Bhavika Anil Koli,45,55,55,45,50,50
+2,A,8,Deven Bhushan Shinde,40,40,40,40,40,40
+2,A,9,Dhriya Mahek Lad,45,35,40,50,40,45
+2,A,10,Gatik Harshad Gawade,40,50,45,35,45,40
+2,A,11,Hriday Vipul Sipani,65,45,45,60,55,53
+2,A,12,Hrudayan Tushar Gurav,60,60,40,35,60,38
+2,A,13,Jiana Vikram Chenani,30,25,60,40,28,50
+2,A,14,Kabir Akash Gupta,20,60,45,70,45,58
+2,A,15,Kaivalya Shimpi,55,60,45,45,58,45
+2,A,16,Kanika Hitesh Daryanani,50,45,60,45,48,53
+2,A,17,Kathit Vikram Mokani,50,25,30,30,38,30
+2,A,18,Kiara Vineeth,55,50,35,45,53,40
+2,A,19,Mallhar Shirish Jogwe,60,45,55,45,53,50
+2,A,20,Mokshika Niklesh Yadav,30,60,55,60,45,58
+2,A,21,Myansh Lokesh Pahuja,55,40,30,30,48,30
+2,A,22,Neel Ajay Thankar,35,65,45,50,50,48
+2,A,23,Neetika Ratnakar Ghadigaonkar,60,40,45,40,50,43
+2,A,24,Nirva Vishal Ingle,50,45,70,65,48,68
+2,A,25,Nivaan Nitesh Burde,45,40,40,25,43,33
+2,A,26,Parnika Nikhil Madavi,60,55,45,60,58,53
+2,A,27,Samaira Prasad Nair,60,40,40,45,50,43
+2,A,28,Sanvi Rajesh Dingore,35,35,45,50,35,48
+2,A,29,Sarvadnya Prasad Lohar,60,55,45,25,58,35
+2,A,30,Spruha Prashant Shimpi,40,60,60,50,50,55
+2,A,31,Srihaan Ramakant Iyengar,45,50,30,65,48,48
+2,A,32,Tahira Mohammad asif Raza,60,25,35,60,43,48
+2,A,33,Tarun Biju Pillai,35,50,55,40,43,48
+2,A,34,Trisha Sachin Kathole,60,45,50,25,53,38
+2,A,35,Trishaan Santosh Chenneti,60,60,60,55,60,58
+2,A,36,Vedika Vikash Verma,45,25,25,40,35,33
+2,A,37,Viaan Swapnil Mahajan,60,45,55,60,53,58
+2,A,38,Virat Girish Kini,50,70,60,70,60,65
+2,A,39,Viya Kushal Rathod,50,40,60,35,45,48
+2,A,40,Vyom Vinay Kondalkar,35,50,70,50,43,60
+2,B,1,Aarav Ajinkya Lavate,55,45,50,55,50,53
+2,B,2,Aarohi Rohit Hire,70,65,45,55,68,50
+2,B,3,Aarvi Nitish Bidvi,45,35,55,45,40,50
+2,B,4,Ashvi Rahul Surve,55,60,40,50,58,45
+2,B,5,Aviraj Krishnachandra Singh,40,60,55,60,50,58
+2,B,6,Disha Dilip Maity,45,35,35,65,40,50
+2,B,7,Esha Amit Kshirsagar,45,55,50,45,50,48
+2,B,8,Ghanika Puneet Ingle,60,55,45,35,58,40
+2,B,9,Harshita Mahesh Balani,75,60,45,60,68,53
+2,B,10,Heyansh Girish Talreja,50,70,60,65,60,63
+2,B,11,Hreeday Aashish Rathod,60,45,45,60,53,53
+2,B,12,Hridayaan Ravi Nath,55,45,50,45,50,48
+2,B,13,Kairaa Chunilal Sewani,45,50,45,40,48,43
+2,B,14,Kiyansh Akash Jerera,50,55,40,65,53,53
+2,B,15,Kshitij Vaibhav Aiwale,45,75,65,65,60,65
+2,B,16,Lakshmeesh Umesh Patil,65,40,35,50,53,43
+2,B,17,Lavik Makhija,40,60,50,45,50,48
+2,B,18,Manas Sunny Shewkani,35,35,45,40,35,43
+2,B,19,Naksh Ravindra Dhole,40,60,45,65,50,55
+2,B,20,Nivedya Mali,55,45,60,45,50,53
+2,B,21,Ojas Avinash Pandhare,70,75,55,60,73,58
+2,B,22,Parthavi Chetan Hore,75,50,40,55,63,48
+2,B,23,Pranika Pankaj Wagh,35,35,45,40,35,43
+2,B,24,Prisha Yadav,40,55,45,65,48,55
+2,B,25,Priyal Damji Patel,70,50,60,60,60,60
+2,B,26,Rihanna Dhiraj Wadhawani,55,70,35,65,63,50
+2,B,27,Rishabh Vikas Gupta,55,55,50,45,55,48
+2,B,28,Rudra Praveen Dhera,35,55,45,50,45,48
+2,B,29,Shaanavi Rawle,50,50,50,50,50,50
+2,B,30,Sharanya Jayesh Madav,60,50,35,55,55,45
+2,B,31,Sharvil Subodh Deshmukh,70,65,50,55,68,53
+2,B,32,SHLOK MEHUL THAKKAR,65,45,65,55,55,60
+2,B,33,Siyon Manoj Dmello,55,55,35,50,55,43
+2,B,34,Tithi Gaurav Desai,65,50,50,50,58,50
+2,B,35,Triaansh Prashant Jadhav,40,45,40,35,43,38
+2,B,36,Tushika Bijlani,45,45,65,65,45,65
+2,B,37,Vivaan Sunny Valecha,60,70,45,45,65,45
+2,B,38,Yuga Mahesh Kakad,35,55,40,70,45,55
+2,C,1,Aarvi Krishna Rawool,45,55,40,35,50,38
+2,C,2,Aaryan Sapkale,65,55,45,50,60,48
+2,C,3,Advika Rahul Trivedi,35,45,30,30,40,30
+2,C,4,Aisha Rehan Warsi,45,65,40,60,55,50
+2,C,5,Anagha Ankush Khope,50,45,60,35,48,48
+2,C,6,Anika Vinodkumar Dwivedi,55,45,35,60,50,48
+2,C,7,Atharva Vikashkumar Dubey,65,55,60,65,60,63
+2,C,8,Avishkumar Ajaykumar Singh,40,50,40,40,45,40
+2,C,9,Ayaansh Indrajit Borikar,35,45,55,40,40,48
+2,C,10,Ayeza Khan,45,55,40,50,50,45
+2,C,11,Charul Gaurav Latke,60,45,45,50,53,48
+2,C,12,Daksh Mukesh Kundnani,65,55,50,35,60,43
+2,C,13,Dhiral Pravin Patni,55,65,30,40,60,35
+2,C,14,Ekanshi Ashish Jain,50,55,60,40,53,50
+2,C,15,Gaurang Parag Nimse,45,45,35,55,45,45
+2,C,16,Gauresh Haresh Matlani,45,55,50,60,50,55
+2,C,17,Geyshraj Neeraj Ingle,55,45,60,60,50,60
+2,C,18,Gitika Chaudhari,55,60,45,35,58,40
+2,C,19,Jiana Dhiraj Chhapru,65,65,40,40,65,40
+2,C,20,Jiyaansh Bhisham Balani,45,35,30,40,40,35
+2,C,21,Kimaya Jagdish Deshmukh,35,55,65,60,45,63
+2,C,22,Kiyara Ronak Sharma,75,55,60,35,65,48
+2,C,23,Madiha Shahid Patel,55,50,35,50,53,43
+2,C,24,Nachiket Krishnadatt Gautam,45,40,40,50,43,45
+2,C,25,Naisha Dinesh Dhera,40,55,60,40,48,50
+2,C,26,Navyansh Ramesh Gupta,65,55,40,40,60,40
+2,C,27,Nirvi Mahek Shah,45,60,35,35,53,35
+2,C,28,Pearl Shailesh Rangwani,50,45,50,65,48,58
+2,C,29,Prithvee Manoj Pahuja,35,60,50,60,48,55
+2,C,30,Pruthviraj Patil,45,35,40,30,40,35
+2,C,31,Rehaan Masud Shaikh,55,55,55,60,55,58
+2,C,32,Reyaansh Rakesh Gole,60,55,50,35,58,43
+2,C,33,Rishika Pankaj Kasture,45,50,55,40,48,48
+2,C,34,Rivaan Pravin Kasare,40,45,40,40,43,40
+2,C,35,Saanvi Anubhaw Labh,40,75,40,55,58,48
+2,C,36,Shivaansh Darshan Joshi,65,45,50,50,55,50
+2,C,37,Soham Girish Wadhwa,65,45,40,35,55,38
+2,C,38,Tanvish Niraj Chaurasia,35,45,45,50,40,48
+3,A,1,Aaradhya Nitin Bhoir,50,40,35,45,45,40
+3,A,2,Ipsita Dilip Joshi,55,60,50,40,58,45
+3,A,3,Prisha Rinkesh Patel,65,45,30,40,55,35
+3,A,4,Kiara Satra,45,40,55,70,43,63
+3,A,5,Hruday Yogesh Bhavar,60,65,35,40,63,38
+3,A,6,Hrishaan Surendra Dalvi,45,70,40,45,58,43
+3,A,7,Ayush Shivkumar Gupta,55,40,40,55,48,48
+3,A,8,Navyansh Kailash Karnani,65,55,55,40,60,48
+3,A,9,Kunj Sitaram Misal,35,60,40,50,48,45
+3,A,10,Devesh Pradeep Pillai,55,40,40,35,48,38
+3,A,11,Yuvaan Sunny Wadhwa,55,55,40,60,55,50
+3,A,12,Kannika Basantani,55,45,35,50,50,43
+3,A,13,Kiaraa Chirag Jobanputra,50,55,50,45,53,48
+3,A,14,Manasvi Haresh Patel,45,40,50,50,43,50
+3,A,15,Mayra Moreshwar Sawant,75,55,45,55,65,50
+3,A,16,Reyansh Vijay Bhurke,50,55,40,60,53,50
+3,A,17,Shubh Sameer Haria,55,70,50,50,63,50
+3,A,18,Harsh Ajeet Kharche,35,45,50,45,40,48
+3,A,19,Heyaan Prakash Makhija,50,45,35,30,48,33
+3,A,20,Dhimanshu Manish Pardeshi,60,55,50,50,58,50
+3,A,21,Bhavya Rakesh Deshmukh,55,55,40,60,55,50
+3,A,22,Nairiti Mishra,55,40,45,50,48,48
+3,A,23,Keerti Pagar,50,50,45,35,50,40
+3,A,24,Heman Bagrecha,45,55,30,50,50,40
+3,A,25,Eshan Gopal kumar Choudhary,70,45,60,55,58,58
+3,A,26,Atharva Yogesh Gavhale,50,50,35,40,50,38
+3,A,27,Hriddesh Milind Kor,65,75,40,50,70,45
+3,A,28,Kiyansh Pahuja,45,45,40,40,45,40
+3,A,29,Riyansh Nitin Chaudhari,50,50,50,60,50,55
+3,A,30,Avaneesh Nilesh Salekar,50,50,35,50,50,43
+3,A,31,Vridhi Kishor Karna,55,50,50,35,53,43
+3,A,32,Chinmayi Sagar Patil,40,45,55,50,43,53
+3,A,33,Lavish Roshan Talreja,55,65,40,30,60,35
+3,A,34,Hridhaan Vaibhav Dhakrao,50,50,30,55,50,43
+3,A,35,Parth Sameer Shewani,50,50,45,50,50,48
+3,B,1,Reyansh Kirankumar Thakare,65,60,40,35,63,38
+3,B,2,Samaira Chetan Dhera,40,50,35,50,45,43
+3,B,3,Tanishka Rani Mohite,60,55,45,30,58,38
+3,B,4,Harsha Vishal Pawar,55,65,40,55,60,48
+3,B,5,Ishita Singh,75,35,50,50,55,50
+3,B,6,Lavik Mitesh Chaudhari,35,55,35,30,45,33
+3,B,7,Vihaan Santhosh Embrandiri,55,50,50,50,53,50
+3,B,8,Vedish Tushar Patil,50,65,35,55,58,45
+3,B,9,Shrunesh Ganesh Waghmare,35,35,45,45,35,45
+3,B,10,Shrutesh Ganesh Waghmare,75,55,65,30,65,48
+3,B,11,Enaya Abhishek Chakankar,55,55,40,50,55,45
+3,B,12,Anvi Tejas Mane,35,55,40,55,45,48
+3,B,13,Tanishka Kalpesh Patil,55,60,35,50,58,43
+3,B,14,Anvi Piyush Upadhyay,55,45,60,50,50,55
+3,B,15,Rohit Suresh Chandwani,50,65,35,30,58,33
+3,B,16,Soham Yogesh Dhuri,55,35,50,55,45,53
+3,B,17,Yuvan Lokesh Jain,55,55,35,65,55,50
+3,B,18,Pradnesh Yogesh Kolte,55,70,50,40,63,45
+3,B,19,Rudra Matlani,45,45,55,55,45,55
+3,B,20,Dhritvan Prajapati,50,55,35,40,53,38
+3,B,21,Mishika Amit Jadhwani,55,45,50,45,50,48
+3,B,22,Navya Amit Nisar,75,50,55,50,63,53
+3,B,23,Kavya Purohit,45,45,30,55,45,43
+3,B,24,Parth Bhojwani,45,65,50,50,55,50
+3,B,25,Anvit Devidas Dhole,50,55,55,50,53,53
+3,B,26,Aarav Sopan Kakad,65,45,40,50,55,45
+3,B,27,Veer Manish Metri,45,45,45,35,45,40
+3,B,28,Vihaan vasant Patil,35,50,40,50,43,45
+3,B,29,Saksham Pravin Ubale,55,55,60,55,55,58
+3,B,30,Devansh Mohan Parve,65,55,45,50,60,48
+3,B,31,Paras Kamlesh Ochani,35,35,45,55,35,50
+3,B,32,Haniya Anwar Ahmed Shaikh,65,50,55,40,58,48
+3,B,33,Karanveer Shailendraprasad Jat,60,55,30,55,58,43
+3,B,34,Nakshraj Malbari,65,55,50,40,60,45
+3,B,35,Dikshant vilas sonawane,35,45,35,40,40,38
+3,C,1,Soham Prakash Makhija,65,65,45,50,65,48
+3,C,2,Dhwani Dhiraj Godghate,50,45,35,45,48,40
+3,C,3,Tanaya Yuvraj Gharat,65,35,50,30,50,40
+3,C,4,Ritika Suhas Padwal,45,75,35,50,60,43
+3,C,5,Yadnya Rahul Pawar,45,55,40,45,50,43
+3,C,6,Jiana Kamal Tekwani,60,35,60,40,48,50
+3,C,7,Atharva Chandrabhan Chauhan,35,50,40,55,43,48
+3,C,8,Adhiraj Ravikumar Gite,75,45,45,50,60,48
+3,C,9,Naksh Ganesh Karaniya,55,60,35,40,58,38
+3,C,10,SAMANYU SRIJESH MENON,35,35,55,45,35,50
+3,C,11,Vrushank Samadhan Patil,65,60,30,50,63,40
+3,C,12,Kavish Amit Singh,55,75,35,65,65,50
+3,C,13,Harshit Sachin Wadekar,55,35,50,30,45,40
+3,C,14,Swanandi Naresh Gaikwad,50,55,55,40,53,48
+3,C,15,Ishnaa Vinay More,55,50,40,55,53,48
+3,C,16,Krishna Ananthanarayanan,65,75,40,60,70,50
+3,C,17,Reyansh Ganesh Chaudhari,45,35,55,45,40,50
+3,C,18,Saish Haresh Gaikwad,45,35,35,45,40,40
+3,C,19,Priyansh Jamdare,65,55,50,40,60,45
+3,C,20,Himansh Ladkani,55,70,35,40,63,38
+3,C,21,Ayaan singh Paramjeet singh Rathor,60,35,55,65,48,60
+3,C,22,Vihani Aditya Bhatnagar,65,55,50,40,60,45
+3,C,23,Mahi Nitesh Kumar Jain,35,35,35,40,35,38
+3,C,24,Kiara Vishal Ochani,65,55,50,55,60,53
+3,C,25,Sidhik Vishal Chetole,65,65,30,40,65,35
+3,C,26,Gaurang Harshal Gangurde,35,45,55,45,40,50
+3,C,27,Ayansh Mandar Kangane,60,55,35,45,58,40
+3,C,28,Ibdar Sayyed,55,45,60,50,50,55
+3,C,29,Shivansh Santosh Shimpi,65,50,40,30,58,35
+3,C,30,JIMISH NARESH VALECHHA,45,45,35,50,45,43
+3,C,31,Prabhreet Kaur Randhir Singh Aulakh,45,55,50,45,50,48
+3,C,32,Aarush Amit Palande,75,75,35,60,75,48
+3,C,33,Ashlesha Ashish Sanap,45,35,50,40,40,45
+3,C,34,Anagha Pradnyesh Shembavanekar,45,55,35,65,50,50
+3,C,35,Rudra Pawan Tolani,75,65,50,30,70,40
+4,A,1,Sumeet Gangji Mor,50,40,45,55,45,50
+4,A,2,Prisha Satish Kori,55,60,40,35,58,38
+4,A,3,Khanak Sanjay Hassani,60,55,50,60,58,55
+4,A,4,Divy Shaishav Thakkar,55,45,45,45,50,45
+4,A,5,Matthew Robertson Nadar,35,65,45,45,50,45
+4,A,6,Advay Ashish Guntiwar,60,40,35,50,50,43
+4,A,7,Aalayana Akshay Kumar Singh,45,70,50,50,58,50
+4,A,8,Simrit Abhijit Nagdev,55,70,30,75,63,53
+4,A,9,Vaidehi Kamlesh Mali,60,40,55,45,50,50
+4,A,10,Divyansh Krupal Sonkusale,40,45,45,45,43,45
+4,A,11,RHEA DHARMESH KABRA,65,55,40,40,60,40
+4,A,12,VIHAA BHAVESH BOLIA,40,55,40,60,48,50
+4,A,13,Arshika Dwivedi,55,50,40,35,53,38
+4,A,14,Bhavya Jacky Dodwani,70,55,45,55,63,50
+4,A,15,Nishtha Kamlesh Dhera,35,50,60,75,43,68
+4,A,16,Divyansh Giridhar Kshirsagar,50,50,35,40,50,38
+4,A,17,Mihika Ulhas Ajgekar,60,70,40,60,65,50
+4,A,18,Rutva Kiran Kulkarni,70,45,40,35,58,38
+4,A,19,Vasudha Hemant Makwana,45,60,45,55,53,50
+4,A,20,Aahana Haresh Naik,45,45,65,70,45,68
+4,A,21,Arohi Swapnil Yerunkar,50,50,35,40,50,38
+4,A,22,Rudra Jagadeesh,50,55,50,45,53,48
+4,A,23,Manvik Hunny Bhatia,65,55,30,55,60,43
+4,A,24,Vihaan Mukesh Kumar Rai,45,50,50,50,48,50
+4,A,25,Shivansh Mukesh Sharma,55,55,35,45,55,40
+4,A,26,Prisha Piyush Akkewar,50,50,60,55,50,58
+4,A,27,Spruha Arun Gholap,50,55,45,60,53,53
+4,A,28,Sahasragnya Anji Kirankumar Kalluru,60,40,40,40,50,40
+4,A,29,Shivam Sandeep Gurav,70,70,45,65,70,55
+4,A,30,Reyansh Harish Pal,35,70,35,40,53,38
+4,A,31,Shivansh Pravin Pandey,55,40,50,45,48,48
+4,A,32,Sahil Deepak Dodeja,50,45,50,65,48,58
+4,A,33,Vikram Veeru Gereja,60,55,40,50,58,45
+4,A,34,Naitya Raut,60,55,45,50,58,48
+4,B,1,Atharv Avinash Auti,65,60,45,45,63,45
+4,B,2,Gauri Firange,40,45,55,65,43,60
+4,B,3,Prisha Phase,65,55,40,50,60,45
+4,B,4,Anvee Chandrashekhar Thakur,55,60,45,45,58,45
+4,B,5,Shreesha Vinayak Wagh,45,40,30,55,43,43
+4,B,6,Kshipra Rahul Yuwanate,60,65,55,40,63,48
+4,B,7,Nihar Raju Langade,35,35,60,60,35,60
+4,B,8,Adyan Tufel Memon,65,55,35,35,60,35
+4,B,9,Aayush Rahul Sonawane,65,70,45,55,68,50
+4,B,10,SHAURYA RAJESHWAR WAGH,40,40,40,75,40,58
+4,B,11,Ishani Ashish Ahire,60,45,45,50,53,48
+4,B,12,SASHA YOGESH NAMAYE,35,55,40,50,45,45
+4,B,13,Dhiti Dhiraj Pandey,65,50,55,50,58,53
+4,B,14,Haksh Ahuja,65,45,45,35,55,40
+4,B,15,Kiyan Sneshank Ambre,40,55,40,65,48,53
+4,B,16,Avyukth Paresh Chauhan,45,60,55,50,53,53
+4,B,17,Shreyan Kar,50,45,45,50,48,48
+4,B,18,Rudra Ramashankar Rajbhar,65,65,55,45,65,50
+4,B,19,Vihaan Rohit Sawant,65,40,50,40,53,45
+4,B,20,Jisha Sunil Agarwal,35,55,35,75,45,55
+4,B,21,Grisha Vinay Mhatre,50,60,45,55,55,50
+4,B,22,Samaira Panjiar,50,45,40,40,48,40
+4,B,23,Spruha Sumangal Pawar,65,50,45,45,58,45
+4,B,24,DRITI JEETU RAMRAKHIYANI,45,75,55,50,60,53
+4,B,25,SHANAYA ASHWIN SHRIWAS,55,35,40,65,45,53
+4,B,26,ANWIT AMEET DUSAL,50,55,55,45,53,50
+4,B,27,Rudra Prakash Engurtiwar,50,50,35,40,50,38
+4,B,28,Shrinay Sushil Jadhav,55,50,50,60,53,55
+4,B,29,Rig Vipin Mishra,55,35,55,55,45,55
+4,B,30,Bhavya Kailash Pandey,50,75,40,55,63,48
+4,B,31,Parshwa Yatin Parekh,50,50,55,50,50,53
+4,B,32,Rajratna Adhar Surdas,55,45,35,45,50,40
+4,C,1,Prisha Sunny Basantani,65,50,35,70,58,53
+4,C,2,Anvi Vidyanand Bhaskar,50,55,60,35,53,48
+4,C,3,Avleen Kaur Daljeet Singh Ratol,50,75,45,50,63,48
+4,C,4,Ansh Prashant Deshmukh,55,50,40,55,53,48
+4,C,5,Nirad Vinay Dhande,50,45,45,55,48,50
+4,C,6,Shivansh Gokul Ghenge,55,45,40,60,50,50
+4,C,7,Roodra Anil Gupta,50,65,55,35,58,45
+4,C,8,Ruaan Kapil Jain,55,60,45,55,58,50
+4,C,9,Advait Nitin Nayak,35,45,45,50,40,48
+4,C,10,Anjan Suryanarayan Padhy,75,45,45,45,60,45
+4,C,11,Daksh Rakesh Patel,55,55,40,75,55,58
+4,C,12,Harsh Swapnil Solanki,40,50,45,40,45,43
+4,C,13,Hamshika AshokKumar,60,70,65,50,65,58
+4,C,14,Parisha Ravi Gowda,35,35,40,45,35,43
+4,C,15,Shanaya Sharad Hansora,55,50,45,45,53,45
+4,C,16,Maanika Rawat,70,55,40,70,63,55
+4,C,17,Ayaan Manish Chandwani,35,65,45,40,50,43
+4,C,18,Ayansh Sachin Danane,65,45,55,65,55,60
+4,C,19,Yuvaan Rahul Gupta,40,50,45,45,45,45
+4,C,20,Dhruv Dinesh Soni,55,50,50,60,53,55
+4,C,21,Rupal Sunil Mishra,70,55,35,60,63,48
+4,C,22,Gargi Bhushan Arute,35,65,55,35,50,45
+4,C,23,ANANYA AMOL HARNE,50,45,60,55,48,58
+4,C,24,SAANVI SANDEEP LOHAKARE,55,40,35,40,48,38
+4,C,25,Gargi Prashant Tade,55,60,50,70,58,60
+4,C,26,SONIA AMIT VAIKUNTHE,55,55,35,45,55,40
+4,C,27,Harshin Rounak Chattani,50,45,45,45,48,45
+4,C,28,Malhar Vaibhav Chaulkar,50,65,40,65,58,53
+4,C,29,Vihaan Hiren Karamchandani,55,50,40,35,53,38
+4,C,30,Darshil Yogesh Paradkar,55,50,45,60,53,53
+4,C,31,Vihaan Nilesh Pundpal,45,35,50,55,40,53
+4,C,32,Umar Naufil Rohe,60,65,35,50,63,43
+4,C,33,Keshav Kishore,50,60,35,50,55,43
+4,C,34,Aksh Mishra,65,45,50,50,55,50
+5,A,1,Nivyashri Shriram Ahire,45,50,40,60,48,50
+5,A,2,Kyna Sunil Basantani,60,55,45,55,58,50
+5,A,3,Swara Milin Borse,40,75,50,50,58,50
+5,A,4,Stuti Mandar Dhuru,55,45,35,45,50,40
+5,A,5,Aaisha Asil Don,55,45,50,60,50,55
+5,A,6,Aadya Niranjan Gaikwad,50,50,45,60,50,53
+5,A,7,Sanusha Tushar Kajrolkar,55,65,45,55,60,50
+5,A,8,Saavi Paresh Kunekar,50,60,50,45,55,48
+5,A,9,DISHA DEEPAK MALUSARE,35,45,40,45,40,43
+5,A,10,JANHAVI RAJNIKANT PATEL,70,45,55,70,58,63
+5,A,11,Keyuri Nikhil Saraf,55,50,45,50,53,48
+5,A,12,Anvika Vivek Shrivastava,65,65,50,55,65,53
+5,A,13,Gunjan Syamkuwar,40,65,50,45,53,48
+5,A,14,Keshav Sunil Basantani,70,40,35,40,55,38
+5,A,15,REYANSH YOGESH BHAGWAT,35,60,55,70,48,63
+5,A,16,KUNJ PRATIK JAIN,55,60,60,65,58,63
+5,A,17,Drish Vinay Karia,70,45,35,50,58,43
+5,A,18,SMAYAN SACHIN KARKERA,55,75,45,65,65,55
+5,A,19,Vignesh Sandeep Madhavi,50,40,50,40,45,45
+5,A,20,Prajwal RAJU PATIL,35,60,55,45,48,50
+5,A,21,Harleen Lavin Bhojwani,55,45,45,65,50,55
+5,A,22,Vaidehi Ganesh Divatankar,70,45,50,50,58,50
+5,A,23,Saee Sagar Dabholkar,40,75,35,65,58,50
+5,A,24,Paakhy Ajay Manjramkar,55,40,55,35,48,45
+5,A,25,Sohan Pappu Motwani,45,60,50,50,53,50
+5,A,26,Hridhaan Valecha,55,45,40,70,50,55
+5,A,27,Reyansh Girish Budhrani,60,45,55,45,53,50
+5,A,28,Mohammed Azhaan Imtiyaz Shaikh,70,80,45,45,75,45
+5,A,29,Priyanshi Damji Patel,35,50,50,60,43,55
+5,B,1,Mysha Deepesh Haseja,75,55,55,50,65,53
+5,B,2,BRAMHI NIKHIL CHACHAD,55,50,60,50,53,55
+5,B,3,VIDYUT HARSHARAJ SALVI,60,50,40,55,55,48
+5,B,4,Arnav Rahul Tribhuwan,55,45,45,70,50,58
+5,B,5,TRISHA HITEN BHANUSHALI,50,45,55,35,48,45
+5,B,6,Ruhi Chandrabhan Chauhan,65,70,40,50,68,45
+5,B,7,Krisha Pravin Kekane,55,45,35,55,50,45
+5,B,8,Purva Janardhan Mhatre,60,55,60,65,58,63
+5,B,9,GUNJAN PATANGE,35,50,55,45,43,50
+5,B,10,Mahi Lokesh Sharma,40,50,35,50,45,43
+5,B,11,Saisha Prashant Surve,75,55,50,50,65,50
+5,B,12,ANAYA ABHIJEET THAKUR,55,80,45,55,68,50
+5,B,13,Jiya Vijay Ubale,50,50,50,50,50,50
+5,B,14,Burhanuddin Aziz Bata,70,45,35,80,58,58
+5,B,15,Aaditya Swapan Bera,35,55,65,45,45,55
+5,B,16,Palaksh Nikhil Madavi,60,50,50,60,55,55
+5,B,17,ARMAAN Vinod MAKHIJA,45,65,35,35,55,35
+5,B,18,Shivam Rajesh Poptani,65,50,55,65,58,60
+5,B,19,Pravit Vishal Rane,60,45,40,40,53,40
+5,B,20,SPARSH ROHIT Walavalkar,35,40,60,65,38,63
+5,B,21,Hridya Paresh Kale,50,65,45,60,58,53
+5,B,22,Amaan Abdul Khan,50,45,40,40,48,40
+5,B,23,Purav Jagannath Sahu,65,70,55,65,68,60
+5,B,24,Mikhail Jitendra Bhosle,55,45,35,45,50,40
+5,C,1,VIAAN RISHABH JAIN,50,50,65,65,50,65
+5,C,2,Yashvi Shushant Bhamare,60,45,40,60,53,50
+5,C,3,Jeshna Deepak Khubani,45,60,35,65,53,50
+5,C,4,ANSHITA PRAVIN SHUKLA,75,55,50,35,65,43
+5,C,5,Hiten Ravi Bhatia,70,60,55,60,65,58
+5,C,6,Jeevika Nilesh Agrawal,35,45,40,65,40,53
+5,C,7,Saksham Ajit Bajaj,50,60,55,40,55,48
+5,C,8,Sanvi Santosh Dongare,50,60,55,65,55,60
+5,C,9,Shreya Sandeep Dusseja,55,55,40,35,55,38
+5,C,10,Deepisha Gangwani,75,45,50,50,60,50
+5,C,11,Mahi Bhimrao Ghorpade,35,45,35,50,40,43
+5,C,12,Vaidehi Vaibhav Jadhav,60,60,65,65,60,65
+5,C,13,Pehr Ravi kumar Rai,45,40,40,45,43,43
+5,C,14,Aashvi Nilesh Sontakke,50,65,45,55,58,50
+5,C,15,Spruha Bhaskar Tare,75,55,50,50,65,50
+5,C,16,Mihir Mahendra Alsundekar,35,55,45,50,45,48
+5,C,17,Swaransh Mandar Dhuru,40,60,45,55,50,50
+5,C,18,Muhammad Asil Don,60,40,60,80,50,70
+5,C,19,Ethan Mariano Fernandes,55,45,45,35,50,40
+5,C,20,Arnav Lokesh Nagrale,55,80,50,50,68,50
+5,C,21,Hridaan Rajesh Pandey,60,60,35,55,60,45
+5,C,22,Dhanush Nitin Ranjane,45,45,55,60,45,58
+5,C,23,YASHRAJ SHASHANK RATHOD,50,65,60,65,58,63
+5,C,24,SHREYAS SHINDE,55,35,35,35,45,35
+5,C,25,Anish Pritam Sharma,60,60,50,50,60,50
+5,C,26,Nishal Belani,65,50,55,50,58,53

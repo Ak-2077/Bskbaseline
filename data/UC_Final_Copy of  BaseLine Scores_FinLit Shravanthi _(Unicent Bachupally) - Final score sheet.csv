@@ -1,0 +1,212 @@
+Grade,Div,Student ID,Name,Financial Concept Understanding - (Out of 10) ,Financial Behaviour and Application - (Out of 10) 
+9,Agni,1,Akshay Torthi,60,60
+9,Agni,2,Aluri Thakshil,60,50
+9,Agni,3,Aniketh Sambaraju,50,60
+9,Agni,4,Anisha Nitin Kumar Deshmukh,70,70
+9,Agni,5,Bavya Akshaya Karamsetty,80,80
+9,Agni,6,Chama Kundana,70,60
+9,Agni,7,Duggiraju Niharikha,80,80
+9,Agni,8,Duggireddy Sudiksha Kamala,60,70
+9,Agni,9,Jathin Kasimalla,80,80
+9,Agni,10,Kachana Sai Jayanth Reddy,80,70
+9,Agni,11,Kandula Sri Saanvi,80,80
+9,Agni,12,Kiarah Shah,70,70
+9,Agni,13,Koduru Drishtavya,60,70
+9,Agni,14,Krithika Nagendra Gwala,50,70
+9,Agni,15,Kunapuli Sri Harshini Kunapuli,60,70
+9,Agni,16,Manyu Masade,50,60
+9,Agni,17,Nishanth Velama,80,80
+9,Agni,18,Pranvith S,70,60
+9,Agni,19,Rishita Mothukuri,70,70
+9,Agni,20,Rohita Mothukuri,80,80
+9,Agni,21,S N V S R Harsha Vardhan,70,60
+9,Agni,22,Sarwat Zain Khan,70,50
+9,Agni,23,Satti Vagdha Srivarshini,60,60
+9,Agni,24,Shraddha Ponugoti,50,60
+9,Agni,25,Siripragada Dhanista Rao,80,80
+9,Agni,26,Thogari Saharsh,60,70
+9,Agni,27,Tippasani Lakshya Reddy,80,80
+9,Agni,28,Yaragani Krithik,80,70
+9,Agni,29,Yuvansh Reddy Gondhi,80,70
+9,Amogha,1,Aashrith Ramireddy,70,80
+9,Amogha,2,Bhupathi Raju Lahari,70,80
+9,Amogha,3,Boinpally Advay,60,80
+9,Amogha,4,Chitturi Gamya Srihitha,80,80
+9,Amogha,5,Dodda Himaja Rani,70,80
+9,Amogha,6,Geetha Sahasra Varma Chekuri,80,80
+9,Amogha,7,Haripradyumn Maddirala,70,80
+9,Amogha,8,Jaya Chandrika,60,80
+9,Amogha,9,Kalidindi Sudeesh Kumar Varma,80,80
+9,Amogha,10,Kandula Varshith Uddeep Reddy,70,80
+9,Amogha,11,Koduri Nandita Devi,80,90
+9,Amogha,12,Konnuru Karthik Reddy,70,60
+9,Amogha,13,Kottana Ishita,70,60
+9,Amogha,14,Lingamolla Tharun Reddy,60,70
+9,Amogha,15,Manaswani Chava,60,60
+9,Amogha,16,Manda Nainika,60,70
+9,Amogha,17,Medagam Venkata Sri Valsana Reddy,70,80
+9,Amogha,18,Mukkapati Srijan Chowdary,50,60
+9,Amogha,19,Nodagala Sharanya,40,50
+9,Amogha,20,Nune Sai Prathik,50,60
+9,Amogha,21,Pagadala Mokshagnya,70,60
+9,Amogha,22,Pallagani Venkata Sai,70,80
+9,Amogha,23,Penubelli Likhitha Reddy,70,60
+9,Amogha,24,Pichika Lakshmi Naga Yashaswini,90,90
+9,Amogha,25,Pinapala Pranavi Sri,60,80
+9,Amogha,26,Sai Srihitha Devarasetty,70,80
+9,Amogha,27,Saireddy Ruthik Reddy,60,70
+9,Amogha,28,Sravya Narahari,70,80
+9,Amogha,29,Sripreetham Gadiraju,60,80
+9,Amogha,30,Surabhi Bhuvan,70,80
+9,Amogha,31,Tejaswi Kondreddi,70,80
+9,Amogha,32,Vaishnavi S,70,80
+9,Amogha,33,Vittam Venkata Naga Ananya Surya Taniksha,80,70
+9,Amogha,34,W Gowtham,80,60
+9,Astra,1,Akshaj Shukla,80,80
+9,Astra,2,Bhimavarapu Lakshmi Sahasra,60,80
+9,Astra,3,Dandu Darshith Varma,70,80
+9,Astra,4,Dodda Balasaikrishna Ruthvik,70,80
+9,Astra,5,Eluri Akhil,80,70
+9,Astra,6,Gabbita Sri Sivani,80,70
+9,Astra,7,Gavireddy Aarush Reddy,70,80
+9,Astra,8,Gullapalli Venkat Sai Nischal,70,80
+9,Astra,9,Ishaan Parse,80,70
+9,Astra,10,Jishnu Indukuri,70,70
+9,Astra,11,K Naga Sai Samhita,70,70
+9,Astra,12,Katakam Ashrith,70,80
+9,Astra,13,Kommareddy Sai Prasanth,80,80
+9,Astra,14,Kunadharaju Janvika,80,70
+9,Astra,15,Maharshi Godavari,80,80
+9,Astra,16,Medipelli Prahasith Reddy,70,80
+9,Astra,17,Nitya Sri Peddireddy,70,80
+9,Astra,18,Pamidikondala Kundana Sri,80,80
+9,Astra,19,Parne Aapthi Reddy,70,80
+9,Astra,20,Patakamuri Sahith,80,70
+9,Astra,21,Pranali Bhagwat Kolde,70,80
+9,Astra,22,Punitha R S B Kadiyala,70,80
+9,Astra,23,Reddi Hema srivalli,80,70
+9,Astra,24,Saanvi Nalam,80,80
+9,Astra,25,Sahithi Guthula,70,70
+9,Astra,26,Sangu Shanvitha,70,60
+9,Astra,27,Simra Mohammed,70,80
+9,Astra,28,Tanmayi Akula,80,80
+9,Astra,29,Thupakula Sai Dedeepya,90,80
+9,Bhramos,1,Adluru Punarvika,80,70
+9,Bhramos,2,Akhil Vasireddy,70,80
+9,Bhramos,3,Arevelli Sriyans,60,70
+9,Bhramos,4,Avnika Rathi,70,70
+9,Bhramos,5,B Dedeepya Kundan,80,80
+9,Bhramos,6,Bandi Shiva Sai Ritvik Anuj,70,80
+9,Bhramos,7,Chelakala Pravasthi,70,80
+9,Bhramos,8,Dodda Uthej Sri Raghava,80,70
+9,Bhramos,9,Gadde Nischitha Chowdary,70,80
+9,Bhramos,10,Gangaraju Naga Aarthika,70,80
+9,Bhramos,11,Garapati Navaneeth Ram,80,80
+9,Bhramos,12,Harvender Kour,80,80
+9,Bhramos,13,Hasini V,70,80
+9,Bhramos,14,Indukuri Surya Ashrith,80,80
+9,Bhramos,15,Jonnala Kalyaan Reddy,80,70
+9,Bhramos,16,Karthikeya Uddanti,80,70
+9,Bhramos,17,Kolla Sai Likitha,70,80
+9,Bhramos,18,Lepakshi Arshiya,70,80
+9,Bhramos,19,Maddigiri Sighna Praharshi,80,80
+9,Bhramos,20,Mounish Vemuru,80,90
+9,Bhramos,21,N Tanvi,70,80
+9,Bhramos,22,Paditapu Abhinav,80,70
+9,Bhramos,23,Pakalapati Namith Varma,70,70
+9,Bhramos,24,Sai Smriti Swain,70,80
+9,Bhramos,25,Satwik Sharma,80,80
+9,Bhramos,26,Suddula Sai Praneeth,70,80
+9,Bhramos,27,Sumedh B Shastry,80,80
+9,Bhramos,28,Vutukuri Yaswita,70,80
+9,Bhramos,29,Yarram Rupa Nidhi,60,70
+9,Dhanush,1,Adwait Bharat Survase,80,80
+9,Dhanush,2,Arja Aashish,70,70
+9,Dhanush,3,Basutkar Devarshith Raj,80,80
+9,Dhanush,4,Cheemalapati Naga Tansi,70,70
+9,Dhanush,5,Gangasani Khyati,70,80
+9,Dhanush,6,Golla Mukunda Priya,80,70
+9,Dhanush,7,Govardhanam Sri Venkata Prudhvinath Gowtham,80,70
+9,Dhanush,8,Gudusela Charan Goud,70,60
+9,Dhanush,9,Guguloth Divyasri,80,80
+9,Dhanush,10,Gujjala Yathin Sri Sai,70,80
+9,Dhanush,11,Jadagoudar Sakshi Shrikant,60,70
+9,Dhanush,12,Jasrita Vesangi,70,80
+9,Dhanush,13,Jayanth Setti,70,80
+9,Dhanush,14,Kanukunta Aaradhya Reddy,80,80
+9,Dhanush,15,Kathari Siri Kshetra,80,70
+9,Dhanush,16,Kushik Muragundla,80,80
+9,Dhanush,17,Marella Abhirama Karthikeya,80,70
+9,Dhanush,18,Nandan Minamaneni,70,80
+9,Dhanush,19,Prithika Narayanamurthi,70,80
+9,Dhanush,20,Sanavi Awadhoot Aphale,80,80
+9,Dhanush,21,Shagam Hamsini Priya,70,80
+9,Dhanush,22,Shrikar Ernolla,80,70
+9,Dhanush,23,Sreeramoju Aarush,70,80
+9,Dhanush,24,Srikar Varma Vegesna,80,80
+9,Dhanush,25,Suresh Siddarth,70,80
+9,Dhanush,26,Toodi Ashrith Reddy,80,70
+9,Dhanush,27,Vonterpally Reesha Reddy,80,80
+9,Dhanush,28,YAMMANUR BHAVISHYA REDDY,80,80
+9,Prithvi,1,Alla Prateek,80,70
+9,Prithvi,2,Atmakuri Dhimahi,70,80
+9,Prithvi,3,Beeraka Thrivikram,70,70
+9,Prithvi,4,Bokkisam Venkata Ajitesh,70,80
+9,Prithvi,5,Chimarla Anuhya Reddy,80,70
+9,Prithvi,6,Dasari Yashaswini,80,80
+9,Prithvi,7,Dhaniyala Shloka,80,80
+9,Prithvi,8,Garikipati Tanusri,70,80
+9,Prithvi,9,Garlapati Abhiram,80,70
+9,Prithvi,10,Gosula Satya Nissy Shine,80,80
+9,Prithvi,11,Jahnavi Irukulla,70,80
+9,Prithvi,12,Kallyambakkam Reddy Vibhas,80,70
+9,Prithvi,13,Kolluru Sai Daksh,70,80
+9,Prithvi,14,Kondeti Geethika,80,80
+9,Prithvi,15,Kota Danish,70,80
+9,Prithvi,16,Madaka Joshitha,80,70
+9,Prithvi,17,Myla Soumya,70,70
+9,Prithvi,18,Nagunooru Sasmitha,70,80
+9,Prithvi,19,Numboori Pranava,80,60
+9,Prithvi,20,Paddana Rithik,70,80
+9,Prithvi,21,Polu Kaushal reddy,70,70
+9,Prithvi,22,Poluri Buddha Akhil,80,70
+9,Prithvi,23,Preetika Raine,70,70
+9,Prithvi,24,R S DHUTHIKAA,80,80
+9,Prithvi,25,Sabbineni Charita,70,70
+9,Prithvi,26,Sarayu Yerragudi,70,80
+9,Prithvi,27,Siddula Ridhima,80,80
+9,Prithvi,28,Taduri Reyansh,80,70
+9,Prithvi,29,Thurupu Adheep Reddy,80,70
+9,Prithvi,30,Veda Sri Vegi,80,80
+9,Prithvi,31,Veerati Parinay,80,70
+9,Prithvi,32,Velaga Jahnavi,70,70
+9,Prithvi,33,Yadavalli Srivaathsav,80,70
+9,Shaurya,1,Alluri Mohit Sai Varma,70,80
+9,Shaurya,2,Ankam Gowri Shravasti,80,70
+9,Shaurya,3,Arajula Ashvita,60,70
+9,Shaurya,4,Atul S S S,70,70
+9,Shaurya,5,Chandika Chaitanya Mahidhar,80,80
+9,Shaurya,6,Chava Saranya Laxmi,70,80
+9,Shaurya,7,Garikipati Sai Saharsh,80,70
+9,Shaurya,8,Gunaganuru Yuthika Reddy,70,70
+9,Shaurya,9,J Karthik Kumar,80,70
+9,Shaurya,10,Kolanu Sai Ritwik Reddy,80,80
+9,Shaurya,11,Kolli Pramiti Venkata Sreekruthi,70,80
+9,Shaurya,12,Kurilla Khyati,70,80
+9,Shaurya,13,L Aditya Rao,70,70
+9,Shaurya,14,Manasvi Avutala,80,80
+9,Shaurya,15,Marella Srihass,70,80
+9,Shaurya,16,N Siddhika,80,80
+9,Shaurya,17,Naga Vijaya Sahithi Pamarthy,80,70
+9,Shaurya,18,Ojaswi Vaibhav Duse,70,60
+9,Shaurya,19,Padala Abhinav,60,70
+9,Shaurya,20,Palivela Aarya,70,70
+9,Shaurya,21,Rayaprolu Sahithi,70,80
+9,Shaurya,22,Sagiraju Sri Siddharth Varma,80,80
+9,Shaurya,23,Sai Ishika Bulusu,70,80
+9,Shaurya,24,Sirigiri Akshaya Sahasra,70,80
+9,Shaurya,25,SUDARSANAM SAI CHARAN,80,70
+9,Shaurya,26,Thammana Rithika Sahasra,80,80
+9,Shaurya,27,Thota Krithika,80,80
+9,Shaurya,28,Vardhan Vijay Hinukale,70,80
+9,Shaurya,29,Voruganti Naimisha,80,70

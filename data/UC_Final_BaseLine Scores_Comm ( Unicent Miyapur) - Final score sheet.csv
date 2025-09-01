@@ -1,0 +1,310 @@
+Grade,Div,Student ID,Name,Articulation %,Structured Thinking %,Body Language %,Audience Engagement %,Ability to speak - Total (Out of 20) %,Ability to Engage- Total (Out of 20) %
+3,A,1,Adari Deekshith,55,55,55,55,55,55
+3,A,2,Aditri Banerjee,55,45,45,45,50,45
+3,A,3,Allam Varnika,55,45,45,45,50,45
+3,A,4,Amitosh Mishra,55,50,45,45,53,45
+3,A,5,Anem Jyothsna Srimayi,65,50,45,45,58,45
+3,A,6,Chaitra Sree Vadlamudi,55,45,45,45,50,45
+3,A,7,Devansh Survase,55,45,45,45,50,45
+3,A,8,Dosakayalapati Digvijay,55,45,45,45,50,45
+3,A,9,Gangisetty Varshit,55,50,50,50,53,50
+3,A,10,Geddam Nakshatra,55,45,45,50,50,48
+3,A,11,Gifty Ziona AD,65,55,50,50,60,50
+3,A,12,Hetaksh Sai Varma Yarramsetti,60,50,50,50,55,50
+3,A,13,Jayasri N,55,45,50,50,50,50
+3,A,14,Joshnika Sai Thota,60,50,50,50,55,50
+3,A,15,Karthikeya Dyavarishetty,60,50,50,45,55,48
+3,A,16,Katam Veronika,55,45,50,45,50,48
+3,A,17,Kimaya Arora,60,65,50,50,63,50
+3,A,18,Kushali Reddy Mandapati,60,50,50,50,55,50
+3,A,19,Mandapati Kushaal Varma,50,60,50,50,55,50
+3,A,20,Mandapati Kushank Varma,60,55,45,50,58,48
+3,A,21,Mohammad Saad Aahil,55,50,50,45,53,48
+3,A,22,Nellutla Samvrith,60,45,45,50,53,48
+3,A,23,Nihith Samuel Kosaraju,55,50,45,50,53,48
+3,A,24,Paruchuri Shreyansh,60,55,50,50,58,50
+3,A,25,Saatvik Arjun Reddy M,60,45,50,45,53,48
+3,A,26,Srinidhi Rana,60,55,50,45,58,48
+3,A,27,Tyada Dhakshika,60,50,45,55,55,50
+3,A,28,Vedanshi lakshmi sahasra Nainavarapu,60,60,45,45,60,45
+3,A,29,Vegisetty Shourya,55,60,50,45,58,48
+3,B,1,Aaryan Vanipenta,55,45,55,50,50,53
+3,B,2,Adhvaith Krishna Bota,50,55,60,45,53,53
+3,B,3,Advika Avinash Pawar,45,50,60,55,48,58
+3,B,4,Adya padmakshi Adiraju,60,60,45,50,60,48
+3,B,5,Ayushman Tapan Nayak,50,55,60,50,53,55
+3,B,6,Bodige Devanshi,60,45,60,45,53,53
+3,B,7,Boyalla Venkata Dakshith,55,60,60,45,58,53
+3,B,8,Dendukuri N V S S Pradyumna,60,55,50,45,58,48
+3,B,9,Druvan Vats,55,60,55,45,58,50
+3,B,10,Ganavi Abbineni,55,45,60,50,50,55
+3,B,11,Gavini Tharak Ram,60,45,55,45,53,50
+3,B,12,Hetvika Gangireddy,55,50,55,50,53,53
+3,B,13,Kashvi Prashant Gandhare,60,55,50,50,58,50
+3,B,14,Kruti Shunshetty,60,60,45,50,60,48
+3,B,15,Madduru Yashwin,50,55,60,45,53,53
+3,B,16,Manasvee Reddy Tatikonda,45,60,60,45,53,53
+3,B,17,Mekala Ved Ritwik Sai,45,60,55,50,53,53
+3,B,18,Mesineni Riyansh Rao,45,60,55,50,53,53
+3,B,19,Nikhil Vadapalli,60,45,45,50,53,48
+3,B,20,Nithya Vadapalli,60,45,55,50,53,53
+3,B,21,Pamidi Nandhika,45,60,60,45,53,53
+3,B,22,Porandla Aaradhya,45,60,55,50,53,53
+3,B,23,S Midhuna Reddy,60,50,55,45,55,50
+3,B,24,Vaishanavi Srinivasan,60,45,55,45,53,50
+3,B,25,Vatte Riyanshi Reddy,50,55,55,45,53,50
+3,B,26,Vutukuru Bhavith,60,50,55,45,55,50
+3,C,1,Abhinav Aluri,45,60,55,50,53,53
+3,C,2,Andra Mano Devaansh,45,45,55,60,45,58
+3,C,3,Arya Sharma,55,50,45,50,53,48
+3,C,4,VEDARKA,55,50,50,50,53,50
+3,C,5,Darshika Janga,55,50,60,45,53,53
+3,C,6,Digala Vedansh,50,60,55,45,55,50
+3,C,7,Ishaan,55,45,60,45,50,53
+3,C,8,Juhith,60,45,60,45,53,53
+3,C,9,KATAREY YASHIKA SITARA,45,50,55,60,48,58
+3,C,10,Katkuri Kushal,45,55,60,50,50,55
+3,C,11,Akshat Narayan,65,50,45,55,58,50
+3,C,12,Sathyadev Reddy,55,55,45,60,55,53
+3,C,13,Nalubolu Jaswik,60,45,60,50,53,55
+3,C,14,c.Vydik,55,55,50,60,55,55
+3,C,15,Palthya Ananya,55,50,60,50,53,55
+3,C,16,Parnika Kytepalli,55,60,45,50,58,48
+3,C,17,Pranaya Sri,45,50,60,55,48,58
+3,C,18,Rithvika Arkala,45,55,65,55,50,60
+3,C,19,Ritik Seervi,55,45,55,65,50,60
+3,C,20,Aishwarya,45,65,45,60,55,53
+3,C,21,Akshaya,50,55,55,60,53,58
+3,C,22,Thanvika,50,55,65,55,53,60
+3,C,23,Viviana Varma,50,60,45,65,55,55
+3,C,24,YashashrI,50,60,65,50,55,58
+3,C,25,Saatvik Arjun,60,60,45,50,60,48
+3,C,26,Srinidhi Rana,45,50,65,60,48,63
+3,C,27,Dhakshika,65,60,55,45,63,50
+3,C,28,Vedanshi,60,45,50,65,53,58
+3,C,29,Shourya,55,50,55,55,53,55
+3,C,30,Rushikesh,60,65,55,50,63,53
+3,D,1,Aasritha Nallapati,65,50,55,45,58,50
+3,D,2,Advaita Boga,60,55,50,45,58,48
+3,D,3,Advita Aditya Kaware,55,50,55,60,53,58
+3,D,4,Anugandula Anika,55,60,60,65,58,63
+3,D,5,Chekilla Rutva Goud,45,50,60,65,48,63
+3,D,6,Chevireddy Nikhilesh Reddy,55,55,65,55,55,60
+3,D,7,Danaboyina Karthik,55,50,60,65,53,63
+3,D,8,Inukonda Vignesh Nandan,45,45,65,50,45,58
+3,D,9,Jallu Haasitha,65,60,45,45,63,45
+3,D,10,Ch.Himagna,60,55,50,50,58,50
+3,D,11,Jayita Verma,60,45,55,60,53,58
+3,D,12,Kashvi Khandelwal,60,60,45,65,60,55
+3,D,13,Komali Siri Chintapalli,50,55,60,55,53,58
+3,D,14,Loukya Reddy Mittapelli,65,60,60,55,63,58
+3,D,15,Mala Aradhya,60,50,60,65,55,63
+3,D,16,Murukutla Yashwin Sai,60,55,55,65,58,60
+3,D,17,Piyush Karthik Darla,60,50,60,60,55,60
+3,D,18,Reyansh Verma,60,65,50,60,63,55
+3,D,19,Samanvi H.M,55,65,60,60,60,60
+3,D,20,Samarth H.M,60,65,55,50,63,53
+3,D,21,Sasmith Sajja,55,60,60,65,58,63
+3,D,22,Sathvik charan Chittiboyina,65,50,55,65,58,60
+3,D,23,Shamlajee Mohammadwahid Mansurahmad,60,55,65,60,58,63
+3,D,24,Sidda Varshith Kumar,60,65,55,55,63,55
+3,D,25,Sri Samanvi Murakonda,65,65,50,65,65,58
+3,D,26,Thatha Varsha,60,60,65,50,60,58
+3,D,27,Arjun Ram,60,65,60,60,63,60
+3,D,28,Viraj Nandan,55,55,55,60,55,58
+3,D,29,Ved Vihan,50,50,65,65,50,65
+3,D,30,S.S.Niharika,60,50,65,55,55,60
+3,D,31,K.Devansh,65,60,50,50,63,50
+4,A,1,Aarav Pawar,60,45,40,40,53,40
+4,A,2,J.SAi Sathvik,45,55,45,45,50,45
+4,A,3,Aashi Agarwal,55,50,45,45,53,45
+4,A,4,Akshay Belide,60,50,45,45,55,45
+4,A,5,Amey Ankush Somwanshi,60,50,45,45,55,45
+4,A,6,Balla Parinitha,45,45,55,45,45,50
+4,A,7,Gorantla Nirvigna Sai,60,60,45,45,60,45
+4,A,8,Kaja Sathvik nandan,60,45,45,45,53,45
+4,A,9,Kandari Vivaan Tathagata,45,60,45,45,53,45
+4,A,10,Kanugula Tanay Riyansh,45,60,60,45,53,53
+4,A,11,Kathyayani Devi marthala,60,60,60,45,60,53
+4,A,12,Rudrakshi,45,60,45,60,53,53
+4,A,13,Kriti Vriha Narahari,60,45,45,60,53,53
+4,A,14,Lekhanwita Chodavarapu,45,60,45,45,53,45
+4,A,15,Manepalli Rajvika,45,60,45,45,53,45
+4,A,16,Mangipudi Surya Venkata Samhith,60,60,45,60,60,53
+4,A,17,Abhinaya,45,60,60,45,53,53
+4,A,18,Nandyala Thejas Varma,60,60,45,45,60,45
+4,A,19,Naren Varma Penumatsa,45,45,45,45,45,45
+4,A,20,Neeshwanth Hari Naga Aashrith Puppala,45,45,60,60,45,60
+4,A,21,Nimmagadda Shanmukha Divyanshu,45,45,60,45,45,53
+4,A,22,Pranjal Bonde,60,60,60,45,60,53
+4,A,23,Purva Sahasra Manepalli,65,45,45,45,55,45
+4,A,24,Rajveer Yadav,65,45,45,45,55,45
+4,A,25,Abhiram Kolusu,80,50,45,45,65,45
+4,A,26,Ronith Buddi,65,50,55,60,58,58
+4,A,27,S Bodhi Dev,65,60,60,60,63,60
+4,A,28,S.Krishmitha,65,45,45,45,55,45
+4,A,29,Shaurya Bhushan Patil,80,45,45,45,63,45
+4,A,30,Kanad Jayanti,65,55,45,45,60,45
+4,A,31,Sriram Bhargav,65,60,55,45,63,50
+4,A,32,Tanvisri Varma Gottumukkala,80,60,45,45,70,45
+4,A,33,Toshika Manchiganti,65,45,45,45,55,45
+4,A,34,Tanvi Terala,65,45,45,45,55,45
+4,A,35,Yeddula Dhruthi Reddy,65,45,60,45,55,53
+4,B,1,Riansh Vanka,45,60,40,40,53,40
+4,B,2,Akshara Patel Puppala,65,60,60,60,63,60
+4,B,3,Avani Verma,50,45,65,55,48,60
+4,B,4,Ayaan Kamaraju,45,50,60,65,48,63
+4,B,5,Bezawada Mrudula,65,60,65,65,63,65
+4,B,6,Bhadrinadh Velampalli,65,60,65,65,63,65
+4,B,7,ERRA AADRITI REDDY,65,65,60,65,65,63
+4,B,8,Gangala Vyuha Reddy,50,60,60,60,55,60
+4,B,9,Guggilam Midhun,65,65,65,65,65,65
+4,B,10,Haasini Namboori,65,65,60,65,65,63
+4,B,11,Harsha Tej Bondila,60,65,50,60,63,55
+4,B,12,A.Abhiram,65,80,65,75,73,70
+4,B,13,Jenika Veerubhotla,50,65,50,60,58,55
+4,B,14,K Sanvika,50,65,50,65,58,58
+4,B,15,Kandukuri Giri Nandan,50,65,45,50,58,48
+4,B,16,Komma Rangareddy Gari BHAVESH REDDY,65,65,65,65,65,65
+4,B,17,Krishna Pranavi Mahanti,65,65,65,65,65,65
+4,B,18,Laasya Priya Bethapudi,50,65,50,50,58,50
+4,B,19,Lagudu Bhavya Sri,55,65,65,65,60,65
+4,B,20,Mallipeddi Satyakkashara,65,65,45,60,65,53
+4,B,21,Nihal Maram,50,65,60,65,58,63
+4,B,22,Ojaswini Kartikey Kothe,50,65,60,65,58,63
+4,B,23,Pannala Aarav Reddy,45,65,45,55,55,50
+4,B,24,Pogiri Sharath Chandra,65,65,50,60,65,55
+4,B,25,Potabatula Yeshaswin Santosh,45,50,65,60,48,63
+4,B,26,Ramaiahgari Advaita,50,50,65,55,50,60
+4,B,27,Ruhanika Kiran Gandoli,50,65,65,50,58,58
+4,B,28,Sarraju Sahasra,65,65,65,60,65,63
+4,B,29,Shanmukh Aradhyula,65,50,50,65,58,58
+4,B,30,Sooryansh Gundavarapu,65,55,50,60,60,55
+4,B,31,Sreeyohith,50,65,50,60,58,55
+4,B,32,K.Aarush,50,55,50,65,53,58
+4,B,33,Tutika Haavya Sri,65,65,65,55,65,60
+4,B,34,Venakata Divij Tarigoppala,55,65,65,65,60,65
+4,C,1,Aayushi Sakalley,65,65,65,65,65,65
+4,C,2,Abhigna Kandula,65,60,50,65,63,58
+4,C,3,Abhiroop Reddy Palle,65,50,50,50,58,50
+4,C,4,Advika Sharma,65,80,60,65,73,63
+4,C,5,Joshnika,50,65,55,50,58,53
+4,C,6,Avani Krishna Junnikar,65,65,50,65,65,58
+4,C,7,Avishree Ghosh,50,65,60,65,58,63
+4,C,8,Girish Goud Balling,50,45,65,50,48,58
+4,C,9,Godishala Vishitha,50,65,45,65,58,55
+4,C,10,Guduguntla Deetya,65,65,65,65,65,65
+4,C,11,Jaasritha Tangudu,65,45,65,50,55,58
+4,C,12,K S N Akshaya,65,80,60,60,73,60
+4,C,13,Shauryaveer Nitin Patil,50,60,60,55,55,58
+4,C,14,Kangula Dhakshitha,50,65,65,50,58,58
+4,C,15,Khyathi Sayee Sowmya Mukkadala,65,65,60,65,65,63
+4,C,16,Manvitha Manepalli,65,65,55,65,65,60
+4,C,17,Mathapati Aarush,65,65,65,60,65,63
+4,C,18,Naga Aadhya Vangara,60,65,65,45,63,55
+4,C,19,Naga Aaradhya Vangara,50,45,50,50,48,50
+4,C,20,Nayyirah shaik,50,50,65,65,50,65
+4,C,21,Nelabhotla Sri Nrusimha Skandhan,45,50,50,65,48,58
+4,C,22,Nitya Kaushik,65,60,65,45,63,55
+4,C,23,Prabhaan Tripathy,65,70,65,60,68,63
+4,C,24,Puneet Pradeep Bodhe,65,65,60,65,65,63
+4,C,25,Riyansh Mukesh Nakkawar,65,70,65,60,68,63
+4,C,26,Riyansh Sandip Pore,60,65,65,45,63,55
+4,C,27,Singarapu Prathyusha,65,65,50,60,65,55
+4,C,28,Somineni Venkata Devansh Sai,50,65,65,65,58,65
+4,C,29,Sree Nandhini Reddy Gundlapally,65,55,50,45,60,48
+4,C,30,Srikruthi M,65,65,65,60,65,63
+4,C,31,Thanniru Tejeswar Sai,45,50,65,65,48,65
+4,C,32,Vedant Milind Damare,65,45,50,60,55,55
+4,C,33,Yug Patel,50,50,65,65,50,65
+5,A,1,Anish Prajwal Kompella,65,65,50,60,65,55
+5,A,2,Asula Keertana,65,65,65,60,65,63
+5,A,3,Aswika Gaddala,65,65,50,60,65,55
+5,A,4,Botla Harshith Sai,60,65,60,65,63,63
+5,A,5,Dheeraj Manne,65,45,60,65,55,63
+5,A,6,Dintakurthi Naga Sri Sai Akshaj,60,65,65,65,63,65
+5,A,7,Haswika Kallamadi,80,65,65,60,73,63
+5,A,8,Hosur Vihaan Saastha,65,65,60,65,65,63
+5,A,9,Jampana Poornatej Varma,60,65,50,45,63,48
+5,A,10,Kodamarthy Vishnu Karthikeya,60,65,50,65,63,58
+5,A,11,Kosanam Kota Naga Harshavardhan,45,60,50,45,53,48
+5,A,12,Kuppam Bodik Reddy,60,60,60,60,60,60
+5,A,13,Mallika Reddy Narravula,65,65,50,45,65,48
+5,A,14,Manvitha reddy Mittapelli,60,65,65,60,63,63
+5,A,15,Mashetty Arnav,60,65,45,45,63,45
+5,A,16,Muppalaneni Aadhya,65,60,50,45,63,48
+5,A,17,Naga Srinitha Kancharla,65,65,65,60,65,63
+5,A,18,Karthikeya V,60,65,45,45,63,45
+5,A,19,Perisetti Mohith,65,65,60,60,65,60
+5,A,20,Perisetti Mokshith,65,65,65,60,65,63
+5,A,21,Poreddy Yogasri Reddy,65,65,60,50,65,55
+5,A,22,Sai Dibyanshu,60,80,65,60,70,63
+5,A,23,Seeni Hasini Lakshmi,60,65,60,60,63,60
+5,A,24,Theia Maruvada,60,60,45,45,60,45
+5,A,25,Vanapalli Sai Karthik,60,60,60,60,60,60
+5,A,26,Vedanshi Balam,60,65,45,45,63,45
+5,A,27,Veeturi Tanvi Sameeksha,65,65,45,45,65,45
+5,A,28,Vihaan Vengaladasu,60,65,65,60,63,63
+5,A,29,Vuchala Aaradhya,65,65,45,50,65,48
+5,A,30,Zagabathuni Sasidhar,65,80,65,65,73,65
+5,B,1,Aarvi Samdani,45,65,45,45,55,45
+5,B,2,Abhigyan Karan,65,65,60,60,65,60
+5,B,3,Anshuman Singh,80,80,50,50,80,50
+5,B,4,Austin Ninoy Mathew,65,65,45,45,65,45
+5,B,5,Duranjai Tiruveedula,80,80,65,65,80,65
+5,B,6,Jaasritha Chowdary Pati,65,65,60,60,65,60
+5,B,7,Jishnu Priya Devaki,80,80,60,60,80,60
+5,B,8,Kangula Krithikesh,65,65,50,50,65,50
+5,B,9,Karthikeya Pasupunuri,60,80,60,60,70,60
+5,B,10,Karthikeyan V,65,65,60,50,65,55
+5,B,11,Kaushik Subudhi,65,65,45,60,65,53
+5,B,12,Lakshmi Joshitha Pervala,80,80,60,60,80,60
+5,B,13,Lohitha Batta,65,65,60,60,65,60
+5,B,14,Manne Varnica,80,80,65,60,80,63
+5,B,15,Manne Vidhur,65,65,60,60,65,60
+5,B,16,Matta Sri Deshna,75,75,45,45,75,45
+5,B,17,V.Sahasra,65,65,60,60,65,60
+5,B,18,Nikith Varma Pakalapati,65,65,60,45,65,53
+5,B,19,Nishant Chintapalli,85,80,65,60,83,63
+5,B,20,Pallavi Konnipati,65,65,45,45,65,45
+5,B,21,Pinnamaneni Neehal,80,80,65,60,80,63
+5,B,22,Pokuri Krishna Karthikeya,65,65,45,45,65,45
+5,B,23,Pullakhandam Yasasvi,60,60,60,60,60,60
+5,B,24,Ravuri Saanvi,80,80,60,60,80,60
+5,B,25,Sahasra Chennupati,65,65,65,60,65,63
+5,B,26,Siddartha Rao Gandla,70,70,65,65,70,65
+5,B,27,Sri Dantuluri Rushika,80,80,65,65,80,65
+5,B,28,Sri Lakshmi Shanvi Toleti,65,65,65,45,65,55
+5,B,29,Sri Sai Vaishnavi Emani,65,80,60,60,73,60
+5,B,30,Vikrant Srinivas,80,70,50,50,75,50
+5,B,31,R.Nandan Tej,65,65,60,60,65,60
+5,C,1,Abhiram Muddada,55,55,50,60,55,55
+5,C,2,Amirishetti Satvik,60,80,80,80,70,80
+5,C,3,Anvika Brhmabhotla,65,65,65,55,65,60
+5,C,4,Aryan Bharadwaj Yellapragada,65,65,65,65,65,65
+5,C,5,Falaq IQbal Girach,65,75,70,75,70,73
+5,C,6,Gudupu Harika,65,65,65,60,65,63
+5,C,7,Heet Kothari,65,65,60,65,65,63
+5,C,8,Jaden Immanuel,50,65,65,80,58,73
+5,C,9,Aarvi Samdani,65,65,65,45,65,55
+5,C,10,Kavyanjali Digala,65,65,60,60,65,60
+5,C,11,Krishna Sai Akshita Garine,65,60,45,65,63,55
+5,C,12,Maanvitha Kristam,60,60,45,45,60,45
+5,C,13,Naga Devansh Mahendrakar,80,65,65,60,73,63
+5,C,14,Nayan Thangella,65,75,45,45,70,45
+5,C,15,Nitya Khandelwal,65,65,65,65,65,65
+5,C,16,Polavarapu Sri Dharani Priya,80,65,60,60,73,60
+5,C,17,Krishna Chaitanya,75,75,70,75,75,73
+5,C,18,Reva Pankaj Waghmare,65,65,65,65,65,65
+5,C,19,Saanvi Shivanand Magadum,70,65,45,60,68,53
+5,C,20,Naysha Agarwal,80,80,65,65,80,65
+5,C,21,Sai Venkat Devansh Maddukuri,65,75,50,60,70,55
+5,C,22,Saket Pangavoor,65,65,60,60,65,60
+5,C,23,Shanvika Takkella,80,80,45,60,80,53
+5,C,24,Shlok Sachin Sonawane,60,60,45,45,60,45
+5,C,25,Tanish Sai Bavishetty,65,65,60,60,65,60
+5,C,26,Trisha Kadukar,75,75,60,65,75,63
+5,C,27,Urvi Raturi,65,75,80,70,70,75
+5,C,28,Vihaan Vengaladasu,65,65,60,60,65,60
+5,C,29,Vuchala Aaradhya,80,65,45,45,73,45
+5,C,30,Tej Vardhan,60,65,65,55,63,60
