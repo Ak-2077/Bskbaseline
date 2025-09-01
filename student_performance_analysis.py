@@ -1070,10 +1070,10 @@ if not df.empty:
         # Professional marker styling for grade plot - force no borders and consistent color
         fig.update_traces(
             marker=dict(
-                size=15,
+                size=20,  # Increased size for visibility
                 color='#1f4e79',
-                opacity=0.8,
-                line=dict(width=0, color='rgba(0,0,0,0)')
+                opacity=1.0,  # Full opacity
+                line=dict(width=2, color='white')  # White border for contrast
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate=f'<b>%{{text}}</b><br>' +
@@ -1249,10 +1249,10 @@ if not df.empty:
         # Professional marker styling for section plot - force no borders
         fig.update_traces(
             marker=dict(
-                size=15,
+                size=20,  # Increased size for visibility
                 color='#1f4e79',
-                opacity=0.8,
-                line=dict(width=0, color='rgba(0,0,0,0)')
+                opacity=1.0,  # Full opacity
+                line=dict(width=2, color='white')  # White border for contrast
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate='<b>%{text}</b><br>' +
