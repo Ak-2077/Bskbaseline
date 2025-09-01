@@ -17,6 +17,44 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Custom CSS to fix sidebar overlap issue
+st.markdown("""
+<style>
+    /* Fix sidebar overlap by adjusting main content area */
+    .main .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        max-width: none;
+        width: auto;
+    }
+    
+    /* Ensure main content doesn't get hidden behind sidebar */
+    .stApp > .main {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    
+    /* Force proper sidebar behavior */
+    .css-1d391kg, .css-1y4p8pa {
+        width: 21rem;
+        min-width: 21rem;
+        max-width: 21rem;
+    }
+    
+    /* Adjust main content when sidebar is open */
+    .css-1lcbmhc {
+        margin-left: 21rem;
+    }
+    
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
+        .css-1lcbmhc {
+            margin-left: 0;
+        }
+    }
+</style>
+""", unsafe_allow_html=True)
+
 # Custom CSS for Windsurf-style professional theme
 st.markdown("""
 <style>
@@ -900,12 +938,10 @@ if not df.empty:
                         hover_name='SchoolName',
                         hover_data={'SchoolType': True, 'City': True, 'StudentCount': True},
                         title=f"School Performance: {display_names[0]} vs {display_names[1]}",
-                        labels={
-                            existing_metric_cols[0]: display_names[0],
-                            existing_metric_cols[1]: display_names[1]
-                        })
-        
-        # Force axis ranges and update layout
+                        labels={existing_metric_cols[0]: display_names[0],
+                               existing_metric_cols[1]: display_names[1]}
+                       )
+
         fig.update_layout(
             xaxis=dict(range=[0, 100], title=display_names[0]),
             yaxis=dict(range=[0, 100], title=display_names[1]),
@@ -1049,11 +1085,10 @@ if not df.empty:
                         size='StudentCount',
                         text='Grade',
                         title=f"Grade Performance in {st.session_state.selected_school}",
-                        labels={existing_metric_cols[0]: f'Average {display_names[0]} (%)', 
-                               existing_metric_cols[1]: f'Average {display_names[1]} (%)'},
-                        size_max=50)  # Increased from 20
-        
-        fig.update_traces(textposition="middle center")
+                        labels={existing_metric_cols[0]: display_names[0],
+                               existing_metric_cols[1]: display_names[1]}
+                       )
+
         fig.update_layout(height=600)
         
         # Professional marker styling for grade plot - force no borders and consistent color
@@ -1064,7 +1099,7 @@ if not df.empty:
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
                 line=dict(width=5, color='white'),  # Thicker white border
-                sizemode='area'  # Ensure size is interpreted as diameter
+                sizemode='area'  # Use area mode
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate=f'<b>%{{text}}</b><br>' +
