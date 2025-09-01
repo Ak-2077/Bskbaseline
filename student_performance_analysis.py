@@ -899,7 +899,7 @@ if not df.empty:
                         size='StudentCount',
                         hover_name='SchoolName',
                         hover_data=['City', 'StudentCount'],
-                        size_max=20,
+                        size_max=50,  # Increased from 20
                         custom_data=['SchoolName'],
                         title=f"Real School Performance: {existing_metric_cols[0]} vs {existing_metric_cols[1]} (Click any dot to drill down)",
                         labels={existing_metric_cols[0]: f'Average {existing_metric_cols[0]} (%)', 
@@ -932,10 +932,11 @@ if not df.empty:
         # Professional marker styling - force no borders and consistent color
         fig.update_traces(
             marker=dict(
-                size=20,  # Increased size for visibility
+                size=30,  # Much larger base size
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
-                line=dict(width=2, color='white')  # White border for contrast
+                line=dict(width=3, color='white'),  # Thicker white border
+                sizemode='diameter'  # Ensure size is interpreted as diameter
             ),
             hovertemplate='<b>%{hovertext}</b><br>' +
                          f'{existing_metric_cols[0]}: %{{x}}%<br>' +
@@ -1062,7 +1063,7 @@ if not df.empty:
                         title=f"Grade Performance in {st.session_state.selected_school}",
                         labels={existing_metric_cols[0]: f'Average {display_names[0]} (%)', 
                                existing_metric_cols[1]: f'Average {display_names[1]} (%)'},
-                        size_max=20)
+                        size_max=50)  # Increased from 20
         
         fig.update_traces(textposition="middle center")
         fig.update_layout(height=600)
@@ -1070,10 +1071,11 @@ if not df.empty:
         # Professional marker styling for grade plot - force no borders and consistent color
         fig.update_traces(
             marker=dict(
-                size=20,  # Increased size for visibility
+                size=40,  # Much larger base size
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
-                line=dict(width=2, color='white')  # White border for contrast
+                line=dict(width=4, color='white'),  # Thicker white border
+                sizemode='diameter'  # Ensure size is interpreted as diameter
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate=f'<b>%{{text}}</b><br>' +
@@ -1241,7 +1243,8 @@ if not df.empty:
                         text='Section',
                         title=f"Section Performance in Grade {st.session_state.selected_grade}",
                         labels={existing_metric_cols[0]: f'Average {display_names[0]} (%)', 
-                               existing_metric_cols[1]: f'Average {display_names[1]} (%)'})
+                               existing_metric_cols[1]: f'Average {display_names[1]} (%)'},
+                        size_max=70)  # Increased from 20
         
         fig.update_traces(textposition="middle center")
         fig.update_layout(height=600)
@@ -1249,10 +1252,11 @@ if not df.empty:
         # Professional marker styling for section plot - force no borders
         fig.update_traces(
             marker=dict(
-                size=20,  # Increased size for visibility
+                size=60,  # Much larger base size
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
-                line=dict(width=2, color='white')  # White border for contrast
+                line=dict(width=6, color='white'),  # Thicker white border
+                sizemode='diameter'  # Ensure size is interpreted as diameter
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate='<b>%{text}</b><br>' +
