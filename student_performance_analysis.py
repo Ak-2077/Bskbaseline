@@ -891,18 +891,6 @@ if not df.empty:
         # Sort school_summary to ensure consistent ordering for click mapping
         school_summary = school_summary.sort_values('SchoolName').reset_index(drop=True)
         
-        # Debug: Show school summary data
-        st.write("🔍 **DEBUG: School Summary Data**")
-        st.write(f"Number of schools: {len(school_summary)}")
-        st.write(f"Columns: {list(school_summary.columns)}")
-        st.write(f"Existing metric cols: {existing_metric_cols}")
-        if len(school_summary) > 0:
-            st.dataframe(school_summary.head())
-            st.write(f"Sample data - X values: {school_summary[existing_metric_cols[0]].values[:5]}")
-            st.write(f"Sample data - Y values: {school_summary[existing_metric_cols[1]].values[:5]}")
-        else:
-            st.error("❌ School summary is empty!")
-        
         # Create interactive scatter plot with click functionality
         fig = px.scatter(school_summary, 
                         x=existing_metric_cols[0], 
@@ -1051,18 +1039,6 @@ if not df.empty:
         # Rename columns dynamically
         new_column_names = ['Grade'] + existing_metric_cols + ['StudentCount']
         grade_summary.columns = new_column_names
-        
-        # Debug: Show grade summary data
-        st.write("🔍 **DEBUG: Grade Summary Data**")
-        st.write(f"Number of grades: {len(grade_summary)}")
-        st.write(f"Columns: {list(grade_summary.columns)}")
-        st.write(f"Existing metric cols: {existing_metric_cols}")
-        if len(grade_summary) > 0:
-            st.dataframe(grade_summary.head())
-            st.write(f"Sample data - X values: {grade_summary[existing_metric_cols[0]].values[:5]}")
-            st.write(f"Sample data - Y values: {grade_summary[existing_metric_cols[1]].values[:5]}")
-        else:
-            st.error("❌ Grade summary is empty!")
         
         # Create interactive scatter plot with click functionality
         fig = px.scatter(grade_summary, 
@@ -1245,18 +1221,6 @@ if not df.empty:
         # Rename columns dynamically
         new_column_names = ['Section'] + existing_metric_cols + ['StudentCount']
         section_summary.columns = new_column_names
-        
-        # Debug: Show section summary data
-        st.write("🔍 **DEBUG: Section Summary Data**")
-        st.write(f"Number of sections: {len(section_summary)}")
-        st.write(f"Columns: {list(section_summary.columns)}")
-        st.write(f"Existing metric cols: {existing_metric_cols}")
-        if len(section_summary) > 0:
-            st.dataframe(section_summary.head())
-            st.write(f"Sample data - X values: {section_summary[existing_metric_cols[0]].values[:5]}")
-            st.write(f"Sample data - Y values: {section_summary[existing_metric_cols[1]].values[:5]}")
-        else:
-            st.error("❌ Section summary is empty!")
         
         # Create interactive scatter plot with click functionality
         fig = px.scatter(section_summary, 
