@@ -9,9 +9,10 @@ import os
 import glob
 import re
 
-# Set page configuration - MUST be first Streamlit command
+# Configure Streamlit page
 st.set_page_config(
-    page_title="School Performance Dashboard", 
+    page_title="Student Performance Analysis Dashboard",
+    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -908,9 +909,10 @@ if not df.empty:
         fig.update_layout(
             xaxis=dict(range=[0, 100], title=display_names[0]),
             yaxis=dict(range=[0, 100], title=display_names[1]),
-            width=800,
-            height=600,
-            showlegend=False
+            width=None,  # Let Streamlit handle width
+            height=500,
+            showlegend=False,
+            margin=dict(l=50, r=50, t=50, b=50)  # Reduce margins
         )
         
         # Force marker properties with much larger base size
@@ -941,7 +943,7 @@ if not df.empty:
                 click_event=True,
                 hover_event=False,
                 select_event=False,
-                override_height=600,
+                override_height=500,
                 key="school_plot_stable"
             )
             
@@ -1101,6 +1103,16 @@ if not df.empty:
                 bordercolor='#e0e0e0',
                 borderwidth=1
             )
+        )
+        
+        # Update layout for responsive sizing
+        fig.update_layout(
+            xaxis=dict(range=[0, 100], title=display_names[0]),
+            yaxis=dict(range=[0, 100], title=display_names[1]),
+            width=None,  # Let Streamlit handle width
+            height=None,  # Let Streamlit handle height
+            showlegend=False,
+            margin=dict(l=50, r=50, t=50, b=50)
         )
         
         # Use streamlit-plotly-events for grade plot click functionality
@@ -1278,6 +1290,16 @@ if not df.empty:
                 font=dict(color='#2c3e50', size=16),
                 x=0.5
             )
+        )
+        
+        # Update layout for responsive sizing
+        fig.update_layout(
+            xaxis=dict(range=[0, 100], title=display_names[0]),
+            yaxis=dict(range=[0, 100], title=display_names[1]),
+            width=None,  # Let Streamlit handle width
+            height=None,  # Let Streamlit handle height
+            showlegend=False,
+            margin=dict(l=50, r=50, t=50, b=50)
         )
         
         # Display the plot with event handling
