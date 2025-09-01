@@ -907,52 +907,38 @@ if not df.empty:
         fig = px.scatter(school_summary, 
                         x=existing_metric_cols[0], 
                         y=existing_metric_cols[1],
-                        color='SchoolType',
                         size='StudentCount',
                         hover_name='SchoolName',
-                        hover_data=['City', 'StudentCount'],
-                        size_max=50,  # Increased from 20
-                        custom_data=['SchoolName'],
-                        title=f"Real School Performance: {existing_metric_cols[0]} vs {existing_metric_cols[1]} (Click any dot to drill down)",
-                        labels={existing_metric_cols[0]: f'Average {existing_metric_cols[0]} (%)', 
-                               existing_metric_cols[1]: f'Average {existing_metric_cols[1]} (%)'})
+                        hover_data={'SchoolType': True, 'City': True, 'StudentCount': True},
+                        title=f"School Performance: {display_names[0]} vs {display_names[1]}",
+                        labels={
+                            existing_metric_cols[0]: display_names[0],
+                            existing_metric_cols[1]: display_names[1]
+                        })
         
-        # Configure for better click detection with dark theme
+        # Force axis ranges and update layout
         fig.update_layout(
-            clickmode='event+select',
-            plot_bgcolor='white',
-            paper_bgcolor='white',
-            font=dict(color='black'),
-            title_font=dict(color='black', size=16),
-            xaxis=dict(
-                gridcolor='lightgray', 
-                title_font=dict(color='black'),
-                range=[0, 100],  
-                showgrid=True
-            ),
-            yaxis=dict(
-                gridcolor='lightgray', 
-                title_font=dict(color='black'),
-                range=[0, 100],  
-                showgrid=True
-            ),
-            legend=dict(font=dict(color='black')),
+            xaxis=dict(range=[0, 100], title=display_names[0]),
+            yaxis=dict(range=[0, 100], title=display_names[1]),
+            width=800,
             height=600,
-            showlegend=True
+            showlegend=False
         )
         
-        # Professional marker styling - force no borders and consistent color
+        # Force marker properties with much larger base size
         fig.update_traces(
             marker=dict(
-                size=30,  # Much larger base size
+                size=50,  # Very large base size
+                sizemin=50,  # Minimum size
                 color='#1f4e79',
-                opacity=1.0,  # Full opacity
-                line=dict(width=3, color='white'),  # Thicker white border
-                sizemode='diameter'  # Ensure size is interpreted as diameter
+                opacity=1.0,
+                line=dict(width=5, color='white'),
+                sizemode='area'  # Use area mode
             ),
+            textfont=dict(color='#2c3e50', size=12),
             hovertemplate='<b>%{hovertext}</b><br>' +
-                         f'{existing_metric_cols[0]}: %{{x}}%<br>' +
-                         f'{existing_metric_cols[1]}: %{{y}}%<br>' +
+                         f'{display_names[0]}: %{{x}}%<br>' +
+                         f'{display_names[1]}: %{{y}}%<br>' +
                          'Students: %{marker.size}<br>' +
                          '<extra></extra>'
         )
@@ -1095,11 +1081,12 @@ if not df.empty:
         # Professional marker styling for grade plot - force no borders and consistent color
         fig.update_traces(
             marker=dict(
-                size=40,  # Much larger base size
+                size=50,  # Very large base size
+                sizemin=50,  # Minimum size
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
-                line=dict(width=4, color='white'),  # Thicker white border
-                sizemode='diameter'  # Ensure size is interpreted as diameter
+                line=dict(width=5, color='white'),  # Thicker white border
+                sizemode='area'  # Ensure size is interpreted as diameter
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate=f'<b>%{{text}}</b><br>' +
@@ -1289,10 +1276,11 @@ if not df.empty:
         fig.update_traces(
             marker=dict(
                 size=60,  # Much larger base size
+                sizemin=60,  # Minimum size
                 color='#1f4e79',
                 opacity=1.0,  # Full opacity
                 line=dict(width=6, color='white'),  # Thicker white border
-                sizemode='diameter'  # Ensure size is interpreted as diameter
+                sizemode='area'  # Ensure size is interpreted as diameter
             ),
             textfont=dict(color='#2c3e50', size=12),
             hovertemplate='<b>%{text}</b><br>' +
