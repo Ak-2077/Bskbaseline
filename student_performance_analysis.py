@@ -868,6 +868,12 @@ if not df.empty:
         
         if not existing_metric_cols:
             st.error(f"No metric columns found for {st.session_state.subject_type}. Available columns: {available_columns}")
+            st.write("**Debug Info:**")
+            st.write(f"Looking for columns: {metric_cols}")
+            st.write(f"Available columns: {list(available_columns)}")
+            st.write(f"Data shape: {df.shape}")
+            st.write("**Sample data:**")
+            st.dataframe(df.head())
             st.stop()
         
         # Build aggregation dictionary dynamically
@@ -1015,6 +1021,12 @@ if not df.empty:
         
         if not existing_metric_cols:
             st.error(f"No metric columns found for {st.session_state.subject_type}. Available columns: {available_columns}")
+            st.write("**Debug Info:**")
+            st.write(f"Looking for columns: {metric_cols}")
+            st.write(f"Available columns: {list(available_columns)}")
+            st.write(f"Data shape: {df.shape}")
+            st.write("**Sample data:**")
+            st.dataframe(df.head())
             st.stop()
         
         # Build aggregation dictionary dynamically
@@ -1187,6 +1199,12 @@ if not df.empty:
         
         if not existing_metric_cols:
             st.error(f"No metric columns found for {st.session_state.subject_type}. Available columns: {available_columns}")
+            st.write("**Debug Info:**")
+            st.write(f"Looking for columns: {metric_cols}")
+            st.write(f"Available columns: {list(available_columns)}")
+            st.write(f"Data shape: {df.shape}")
+            st.write("**Sample data:**")
+            st.dataframe(df.head())
             st.stop()
         
         # Build aggregation dictionary dynamically
