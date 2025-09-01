@@ -912,18 +912,30 @@ if not df.empty:
             paper_bgcolor='white',
             font=dict(color='black'),
             title_font=dict(color='black', size=16),
-            xaxis=dict(gridcolor='lightgray', title_font=dict(color='black')),
-            yaxis=dict(gridcolor='lightgray', title_font=dict(color='black')),
-            legend=dict(font=dict(color='black'))
+            xaxis=dict(
+                gridcolor='lightgray', 
+                title_font=dict(color='black'),
+                range=[0, 100],  
+                showgrid=True
+            ),
+            yaxis=dict(
+                gridcolor='lightgray', 
+                title_font=dict(color='black'),
+                range=[0, 100],  
+                showgrid=True
+            ),
+            legend=dict(font=dict(color='black')),
+            height=600,
+            showlegend=True
         )
         
         # Professional marker styling - force no borders and consistent color
         fig.update_traces(
             marker=dict(
-                size=15,
+                size=20,  # Increased size for visibility
                 color='#1f4e79',
-                opacity=0.8,
-                line=dict(width=0, color='rgba(0,0,0,0)')
+                opacity=1.0,  # Full opacity
+                line=dict(width=2, color='white')  # White border for contrast
             ),
             hovertemplate='<b>%{hovertext}</b><br>' +
                          f'{existing_metric_cols[0]}: %{{x}}%<br>' +
@@ -1081,13 +1093,15 @@ if not df.empty:
                 gridcolor='#e0e0e0',
                 title_font=dict(color='#2c3e50', size=14),
                 tickfont=dict(color='#2c3e50'),
-                showgrid=True
+                showgrid=True,
+                range=[0, 100]
             ),
             yaxis=dict(
                 gridcolor='#e0e0e0',
                 title_font=dict(color='#2c3e50', size=14),
                 tickfont=dict(color='#2c3e50'),
-                showgrid=True
+                showgrid=True,
+                range=[0, 100]
             ),
             title=dict(
                 font=dict(color='#2c3e50', size=16),
@@ -1258,13 +1272,15 @@ if not df.empty:
                 gridcolor='#e0e0e0',
                 title_font=dict(color='#2c3e50', size=14),
                 tickfont=dict(color='#2c3e50'),
-                showgrid=True
+                showgrid=True,
+                range=[0, 100]
             ),
             yaxis=dict(
                 gridcolor='#e0e0e0',
                 title_font=dict(color='#2c3e50', size=14),
                 tickfont=dict(color='#2c3e50'),
-                showgrid=True
+                showgrid=True,
+                range=[0, 100]
             ),
             title=dict(
                 font=dict(color='#2c3e50', size=16),
@@ -1437,13 +1453,15 @@ if not df.empty:
                     gridcolor='#e0e0e0',
                     title_font=dict(color='#2c3e50', size=14),
                     tickfont=dict(color='#2c3e50'),
-                    showgrid=True
+                    showgrid=True,
+                    range=[0, 100]
                 ),
                 yaxis=dict(
                     gridcolor='#e0e0e0',
                     title_font=dict(color='#2c3e50', size=14),
                     tickfont=dict(color='#2c3e50'),
-                    showgrid=True
+                    showgrid=True,
+                    range=[0, 100]
                 ),
                 title=dict(
                     font=dict(color='#2c3e50', size=16),
